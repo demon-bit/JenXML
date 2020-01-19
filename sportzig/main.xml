@@ -16,7 +16,7 @@
 <channel>
 	<name>[B] [COLORyellow] WORLD[/COLOR][COLORred][I]IPTV[/COLOR][/B][/I]</name>
 	<link>ignore</link>
-	<externallink>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/Iptv/worldtv.xml</externallink>
+	<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/worldtv.xml</externallink>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 	<fanart>-</fanart>
 	<content></content>
@@ -25,7 +25,7 @@
 <channel>
 	<name>[B] [COLORyellow] SPORT[/COLOR][COLORred][I]TUBE[/COLOR][/B][/I]</name>
 	<link>ignore</link>
-	<externallink>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/sporttubesportzig.xml</externallink>
+	<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sporttube.xml</externallink>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 	<fanart>-</fanart>
 	<content></content>
