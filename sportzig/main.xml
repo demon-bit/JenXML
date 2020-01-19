@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
 <layouttype>thumbnail</layouttype>
 
 <channels>
@@ -16,7 +15,7 @@
 <channel>
 	<name>[B] [COLORyellow] WORLD[/COLOR][COLORred][I]IPTV[/COLOR][/B][/I]</name>
 	<link>ignore</link>
-	<externallink>https://raw.githubusercontent.com/demon-bit/xml-master/master/jen-master/sportzig/worldtv.xml</externallink>
+	<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sporttube.xml</externallink>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 	<fanart>-</fanart>
 	<content></content>
