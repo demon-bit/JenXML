@@ -38,7 +38,7 @@
 	<title>TVTap Channels</title>
 	<link>ignorme</link>
 	<jsonrpc>plugin://script.module.tt/list_channels/6</jsonrpc>
-	<thumbnail></thumbnail>
+	<thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
 </item>
 
 
