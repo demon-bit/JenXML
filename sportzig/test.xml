@@ -4,8 +4,8 @@
          
 <item>
 <title>test</title>
-<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sporttube.xml</link>
-<jsonrpc></jsonrpc>
+<link>ignorme</link>
+<jsonrpc>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sporttube.xml</jsonrpc>
 <thumbnail>https://i.pinimg.com/236x/96/b1/65/96b165a9d5273f3cd25ccc06432ba2ad--media-center-tv-box.jpg</thumbnail>
 </item>
 
