@@ -3,7 +3,7 @@
          
 <plugin>
     <title>[B][COLORchartreuse]Sports Classic[/COLOR][I][COLORorange] SportDevil[/COLOR][/B][/I]</title>
-      <link>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</link>
+      <link>plugin://plugin.video.SportsDevil/url=livesports.cfg&amp;mode=1</link>
         <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
     </plugin>
          
