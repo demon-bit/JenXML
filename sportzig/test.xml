@@ -9,7 +9,7 @@
          
 <plugin>
     <title>Sportdevil</title>
-      <link>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</title>
+      <link>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</title>
         <thumbnail></thumbnail>
     </plugin>
          
