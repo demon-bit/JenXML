@@ -58,20 +58,20 @@
 <channel>
 <name>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]CHANNELS 2[/COLOR][/B][/I]</name>
 <thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sports-ch2.xml</externallink>
+<externallink>plugin://script.module.swiftstreamz/list_channels/8</externallink>
 <fanart>-</fanart>
 <content></content>
 <info>[B][COLORyellow]Channels[/COLOR][/B]</info>
 </channel>
 	
-<item>
-	<title>Swiftstreamz-Sport Channels</title>
-	<link>ignorme</link>
-	<jsonrpc>plugin://script.module.swiftstreamz/list_channels/8</jsonrpc>
-	<thumbnail>http://pclaptopapps.com/wp-content/uploads/2016/11/com.swift.stream.png</thumbnail>
-</item>
+<channel>
+<name>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]CHANNELS 3 tester[/COLOR][/B][/I]</name>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sports-ch2.xml</externallink>
+<fanart>http://pclaptopapps.com/wp-content/uploads/2016/11/com.swift.stream.png</fanart>
+<content></content>
+<info>[B][COLORyellow]Channels[/COLOR][/B]</info>
+</channel>
 	
-
-
 
 </channels>
