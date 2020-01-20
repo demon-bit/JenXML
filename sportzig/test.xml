@@ -3,8 +3,8 @@
          
 <item>
 <title>test</title>
-<link>ignorme</link>
-<jsonrpc>http://swiftstreamz.com/SwiftPanel/api.php?get_channels_by_cat_id=8</jsonrpc>
+<link>http://swiftstreamz.com/SwiftPanel/api.php?get_channels_by_cat_id=8</link>
+<jsonrpc></jsonrpc>
 <thumbnail>https://i.pinimg.com/236x/96/b1/65/96b165a9d5273f3cd25ccc06432ba2ad--media-center-tv-box.jpg</thumbnail>
 </item>
 
