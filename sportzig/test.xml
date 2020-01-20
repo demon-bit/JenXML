@@ -1,11 +1,7 @@
 
 <xml>
          
-<plugin>
-    <title>[B][COLORchartreuse]Sports Classic[/COLOR][I][COLORorange] SportDevil[/COLOR][/B][/I]</title>
-      <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Main-Event.html</link>
-        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
-    </plugin>
+
          
 <plugin>
 <title>Sportdevil</title>
@@ -15,37 +11,8 @@
 </plugin>
          
  <plugin>
-    <title>firstrowsports</title>
-      <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=url=livesports/firstrowsports.eu.cfg</link>
-        <thumbnail></thumbnail>
-    </plugin>
-         
-                     
-<plugin>
-    <title>LaolaTv Sports</title>
-  <thumbnail>https://vignette.wikia.nocookie.net/rom/images/d/dd/Bewahrer_Logo.png/revision/latest?cb=20091023155748&path-prefix=de</thumbnail>
- <link>plugin://script.module.laola1tv</link>
-</plugin>
-       
-<plugin>
-    <title>Sportoka(clone)</title>
-    <link>plugin://plugin.video.sportoka/?ex_link</link>
-    <thumbnail>https://www.minnetonkaschools.org/uploaded/photos/07/15-16/MHS/Athletics/Basketball/FallSportsIcon.png</thumbnail>
-</plugin>
-          
-<plugin>
-    <title>TVTap</title>
-      <link>plugin://script.module.tt</link>
-        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
-    </plugin>
-    
-<plugin>
-    <title>TVTap Channels</title>
-      <link>plugin://script.module.tt/list_channels/6</link>
-        <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
-    </plugin>
 
-</xml>
+
 
 
 <item>
