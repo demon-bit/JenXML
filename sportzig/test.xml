@@ -1,11 +1,13 @@
 
 <xml>
          
-<dir>
-    <title>AllTv</title>
-    <link>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/Iptv/AllPTV.xml</link>
-    <thumbnail>https://1.bp.blogspot.com/-_-7n-gpLtrc/W9UZEG7eOKI/AAAAAAAAEJY/8Wue7tEfF283fMa0J1WvdGFQQ02a5MRQgCLcBGAs/s1600/fluxustv.png</thumbnail>
-</dir>
+         
+<item>
+<title>test</title>
+<link>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/Iptv/AllPTV.xml</link>
+<jsonrpc></jsonrpc>
+ <thumbnail>https://i.pinimg.com/236x/96/b1/65/96b165a9d5273f3cd25ccc06432ba2ad--media-center-tv-box.jpg</thumbnail>
+</item>
 
 </xml>
          
