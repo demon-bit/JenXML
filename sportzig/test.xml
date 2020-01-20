@@ -15,7 +15,7 @@
          
  <plugin>
     <title>firstrowsports</title>
-      <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=livesports%url=livesports/firstrowsports.eu.cfg</link>
+      <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=url=livesports/firstrowsports.eu.cfg</link>
         <thumbnail></thumbnail>
     </plugin>
          
