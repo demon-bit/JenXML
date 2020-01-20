@@ -3,7 +3,7 @@
          
 <plugin>
     <title>[B][COLORchartreuse]Sports Classic[/COLOR][I][COLORorange] SportDevil[/COLOR][/B][/I]</title>
-      <link>plugin://plugin.video.SportsDevil/?item=url=customs.cfg&amp;mode=1</link>
+      <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Main-Event.html</link>
         <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
     </plugin>
          
