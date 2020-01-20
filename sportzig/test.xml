@@ -1,15 +1,13 @@
 
-<xml>
          
          
 <item>
 <title>test</title>
 <link>ignorme</link>
-<jsonrpc>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sporttube.xml</jsonrpc>
+<jsonrpc>plugin://plugin.video.f4mTester/?url=http://swiftstreamz.com/SwiftPanel/api.php?get_channels_by_cat_id=8&amp;streamtype=TSDOWNLOADER</jsonrpc>
 <thumbnail>https://i.pinimg.com/236x/96/b1/65/96b165a9d5273f3cd25ccc06432ba2ad--media-center-tv-box.jpg</thumbnail>
 </item>
 
-</xml>
          
 <item>
 <title>[B][COLORchartreuse]Sports Classic[/COLOR][I][COLORorange] SportDevil[/COLOR][/B][/I]</title>
