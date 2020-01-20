@@ -3,7 +3,7 @@
          
 <plugin>
     <title>[B][COLORchartreuse]Sports Classic[/COLOR][I][COLORorange] SportDevil[/COLOR][/B][/I]</title>
-      <link>plugin://plugin.video.SportsDevil/url=livesports.cfg&amp;mode=1</link>
+      <link>plugin://plugin.video.SportsDevil/??mode=1&amp;amp;url=livesports.cfg&amp;mode=1</link>
         <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
     </plugin>
          
@@ -15,7 +15,7 @@
          
  <plugin>
     <title>firstrowsports</title>
-      <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=livesports/firstrowsports.eu.cfg</link>
+      <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=livesports%url=livesports/firstrowsports.eu.cfg</link>
         <thumbnail></thumbnail>
     </plugin>
          
