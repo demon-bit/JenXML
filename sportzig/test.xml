@@ -9,7 +9,8 @@
          
 <plugin>
     <title>Sportdevil</title>
-      <link>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</title>
+      <link>ignorme</link>
+         <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</jsonrpc>
         <thumbnail></thumbnail>
     </plugin>
          
