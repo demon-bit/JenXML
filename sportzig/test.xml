@@ -9,7 +9,7 @@
          
 <plugin>
     <title>Sportdevil</title>
-      <link>plugin://plugin.video.SportsDevil/?mode=2</link>
+      <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
         <thumbnail></thumbnail>
     </plugin>
          
