@@ -6,7 +6,7 @@
 <channels>
 
 <channel>
-	<name>[B][I][COLOR green] NEW SPORTZIG 19-01-2020[/COLOR][/I][/B]</name>
+	<name>[B][I][COLOR green] *** Last Update 21-01-2020[/COLOR][/I][/B]</name>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 	<fanart>-</fanart>
 	<content></content>
@@ -58,7 +58,7 @@
 <channel>
 <name>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]CHANNELS 2[/COLOR][/B][/I]</name>
 <thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
-<externallink>plugin://script.module.swiftstreamz/list_channels/8</externallink>
+<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sports-ch2.xml</externallink>
 <fanart>-</fanart>
 <content></content>
 <info>[B][COLORyellow]Channels[/COLOR][/B]</info>
