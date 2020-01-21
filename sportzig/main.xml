@@ -11,9 +11,18 @@
 	<fanart>-</fanart>
 	<content></content>
 </channel>
+	
+<channel>
+<name>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]RANDOM DAILY[/COLOR][/B][/I]</name>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/RenewIptv.xml</externallink>
+<fanart>-</fanart>
+<content></content>
+<info>[B][COLORyellow]Channels[/COLOR][/B]</info>
+</channel>
 
 <channel>
-	<name>[B] [COLORyellow] WORLD[/COLOR][COLORred][I]IPTV[/COLOR][/B][/I]</name>
+	<name>[B] [COLORyellow]WORLD[/COLOR][COLORred][I]IPTV[/COLOR][/B][/I]</name>
 	<link>ignore</link>
 	<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/worldtv.xml</externallink>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
@@ -22,7 +31,7 @@
 </channel>
 	
 <channel>
-	<name>[B] [COLORyellow] SPORT[/COLOR][COLORred][I]TUBE[/COLOR][/B][/I]</name>
+	<name>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]TUBE[/COLOR][/B][/I]</name>
 	<link>ignore</link>
 	<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sporttube.xml</externallink>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
@@ -64,14 +73,6 @@
 <info>[B][COLORyellow]Channels[/COLOR][/B]</info>
 </channel>  
 	
-<channel>
-<name>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]Random Daily[/COLOR][/B][/I]</name>
-<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/RenewIptv.xml</externallink>
-<fanart>-</fanart>
-<content></content>
-<info>[B][COLORyellow]Channels[/COLOR][/B]</info>
-</channel>
-	
+
 
 </channels>
