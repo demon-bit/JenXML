@@ -62,6 +62,15 @@
 <fanart>-</fanart>
 <content></content>
 <info>[B][COLORyellow]Channels[/COLOR][/B]</info>
+</channel>  
+	
+<channel>
+<name>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]Random Daily[/COLOR][/B][/I]</name>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sports-ch2.xml</externallink>
+<fanart>-</fanart>
+<content></content>
+<info>[B][COLORyellow]Channels[/COLOR][/B]</info>
 </channel>
 	
 
