@@ -1,289 +1,2805 @@
-
-not used presently
-
-
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-<layoutype>fuckOFF</layoutype>
-<item>
-	<title>[COLOR orchid]¤[/COLOR] [B][COLOR white]SPORTS-STREAMS[/COLOR] [COLOR pink]SPORTS DEVIL REQUIRED[/COLOR][/B] [COLOR orchid]¤[/COLOR]</title>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SKY SPORTS MAIN EVENT</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Main-Event.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSMAINEVENT.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSMAINEVENT.png</fanart>
-</item>
-<item>
-	<title>SKY SPORTS FOOTBALL</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Football.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSFOOTBALL.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSFOOTBALL.png</fanart>
-</item>
-<item>
-	<title>SKY SPORTS ACTION</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Action.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSACTION.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSACTION.png</fanart>
-</item>
-<item>
-	<title>SKY SPORTS ARENA</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Arena.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSARENA.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSARENA.png</fanart>
-</item>
-<item>
-	<title>SKY SPORTS PREMIER LEAGUE</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Premier-League.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSPL.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSPL.png</fanart>
-</item>
-<item>
-	<title>SKY SPORTS CRICKET</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Cricket.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSCRICKET.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSCRICKET.png</fanart>
-</item>
-<item>
-	<title>SKY SPORTS GOLF</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/http://www.sports-stream.net/Sky-Sports-Golf.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSGOLF.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSGOLF.png</fanart>
-</item>
-<item>
-	<title>SKY SPORTS FORMULA 1</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Formula-1.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSF1.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/SKYSPORTSF1.png</fanart>
-</item>
-<item>
-	<title>BT SPORT 1</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/BT-Sport-1.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/BT1.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/BT1.png</fanart>
-</item>
-<item>
-	<title>BT SPORT 2</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/BT-Sport-2.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/BT2.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/BT2.png</fanart>
-</item>
-<item>
-	<title>BT SPORT 3</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/BT-Sport-3.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/BT3.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/BT3.png</fanart>
-</item>
-<item>
-	<title>BT SPORT ESPN</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/BT-Sport-ESPN.html</link>
-	<thumbnail>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/BTESPN.png</thumbnail>
-	<fanart>https://bitbucket.org/threw/bluehat/raw/master/bg/sportsstream/BTESPN.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=dolce1</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch/sps.php?ch=dolce1</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=dolce2</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch/sps.php?ch=dolce2</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=dolce3</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch/sps.php?ch=dolce3</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=dolce4</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch/sps.php?ch=dolce4</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=1</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=1</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=2</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=2</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=3</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=3</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=4</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=4</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=5</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=5</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=6</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=6</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>nart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=7</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=7</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=8</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=8</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=9</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=9</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=10</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=10</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=12</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=12</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=13</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=13</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=14</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=14</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=15</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=15</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=16</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=16</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=17</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=17</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=18</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=18</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=19</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=19</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=20</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=20</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=21</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=21</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=22</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=22</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=23</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=23</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=24</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=24</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=25</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=25</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=26</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=26</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=27</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=27</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=28</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=28</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=29</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=29</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=30</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=30</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-<item>
-	<title>SPORTS_STREAM-ch=31</title>
-	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=31</link>
-	<thumbnail>http://www.sports-stream.net/favicon.gif</thumbnail>
-	<fanart>http://www.sports-stream.net/logo.png</fanart>
-</item>
-
+#EXTM3U
+#EXTINF:-1,beINSports1HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/137
+#EXTINF:-1,beINSports1/MACH
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1096
+#EXTINF:-1,beINSports1-UltraHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1031
+#EXTINF:-1,beINSports1-Dusuk Kalite
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3017
+#EXTINF:-1,beINSports 4k
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7089
+#EXTINF:-1,beINSports2HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/138
+#EXTINF:-1,beINSports3HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7423
+#EXTINF:-1,beINSports4HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/140
+#EXTINF:-1,beIN SPORTS MAX HD 1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2150
+#EXTINF:-1,beIN SPORTS MAX HD 2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2151
+#EXTINF:-1,S SPORT
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1062
+#EXTINF:-1,S SPORT 2 HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1085
+#EXTINF:-1,S SPOR PLUS HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2500
+#EXTINF:-1,beIN Sports Haber HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/93
+#EXTINF:-1,Smartspor
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1016
+#EXTINF:-1,tivibuspor1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/101
+#EXTINF:-1,tivibuspor2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/121
+#EXTINF:-1,tivibuspor3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1084
+#EXTINF:-1,NBBTV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1119
+#EXTINF:-1,Eurosport1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1163
+#EXTINF:-1,Eurosport2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1164
+#EXTINF:-1,TRT2 SPOR
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/280
+#EXTINF:-1,TRTSPOR
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/98
+#EXTINF:-1,ASPOR
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/99
+#EXTINF:-1,TRT1HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/97
+#EXTINF:-1,STAR
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/86
+#EXTINF:-1,ATV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/85
+#EXTINF:-1,KANALD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/87
+#EXTINF:-1,SHOWTV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/89
+#EXTINF:-1,FOXTV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/88
+#EXTINF:-1,KANAL7
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/90
+#EXTINF:-1,TV8
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/95
+#EXTINF:-1,TV8.5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/189
+#EXTINF:-1,A2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1104
+#EXTINF:-1,TEVE2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/109
+#EXTINF:-1,AHABER
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/102
+#EXTINF:-1,BEYAZTV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/142
+#EXTINF:-1,HABERTURK
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/108
+#EXTINF:-1,CNNTURK
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/114
+#EXTINF:-1,NTV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/104
+#EXTINF:-1,TRT4K
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2322
+#EXTINF:-1,ULKE
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/94
+#EXTINF:-1,TRTHABER
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/103
+#EXTINF:-1,TGRTHABER
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/59
+#EXTINF:-1,HaberGLOBAL
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4772
+#EXTINF:-1,A PARA
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4771
+#EXTINF:-1,TV4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/111
+#EXTINF:-1,TRT2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/141
+#EXTINF:-1,KANAL24
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/92
+#EXTINF:-1,Atv avrupa
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5662
+#EXTINF:-1,Eurostar
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/106
+#EXTINF:-1,Showturk
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/190
+#EXTINF:-1,EuroD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5668
+#EXTINF:-1,Aksu tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1025
+#EXTINF:-1,AKlT
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/91
+#EXTINF:-1,BENGUTURK
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/107
+#EXTINF:-1,SKY360
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/241
+#EXTINF:-1,TVNET
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/230
+#EXTINF:-1,BLOMBERG
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/268
+#EXTINF:-1,TRTCOCUK
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/122
+#EXTINF:-1,CANTV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3988
+#EXTINF:-1,KANAL38
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6506
+#EXTINF:-1,TV38
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6507
+#EXTINF:-1,tvkayseri
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/53
+#EXTINF:-1,38kentTV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1453
+#EXTINF:-1,kanal 68
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4956
+#EXTINF:-1,ER TV MALATYA
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3984
+#EXTINF:-1,TGRT
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5663
+#EXTINF:-1,Arti1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3998
+#EXTINF:-1,YolTV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3997
+#EXTINF:-1,ON 4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4955
+#EXTINF:-1,Vizyon58Sivas
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3983
+#EXTINF:-1,KadirgaTV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3986
+#EXTINF:-1,TAY TV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/206
+#EXTINF:-1,minikago
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/330
+#EXTINF:-1,minikacocuk
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/329
+#EXTINF:-1,kids-jun
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/128
+#EXTINF:-1,Johnny Bravo
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2144
+#EXTINF:-1,Baby first
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3438
+#EXTINF:-1,Mesaj tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2472
+#EXTINF:-1,KlDS
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3437
+#EXTINF:-1,BABY
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/273
+#EXTINF:-1,CARTONNETWORK
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/110
+#EXTINF:-1,DlSNEYCHANNEL
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/272
+#EXTINF:-1,nikeledionjr
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/96
+#EXTINF:-1,nikeledionTR
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/331
+#EXTINF:-1,pepeTV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2141
+#EXTINF:-1,Niloya
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/57
+#EXTINF:-1,Tom and Jerry
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5915
+#EXTINF:-1,Pembe Panter
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5912
+#EXTINF:-1,Doraemon HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3436
+#EXTINF:-1,sirinler
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3435
+#EXTINF:-1,Limon ile Zeytin
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5910
+#EXTINF:-1,Masa ile Koca Ayi
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5911
+#EXTINF:-1,Kral sakir
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5909
+#EXTINF:-1,sevimli dostlar
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5906
+#EXTINF:-1,Rafadan tayfa
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5907
+#EXTINF:-1,Kuzucuk
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5908
+#EXTINF:-1,Canim Kardesim
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5905
+#EXTINF:-1,Caillou
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5904
+#EXTINF:-1,kukili
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5913
+#EXTINF:-1,Patron Bebek Yine is Basinda HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5914
+#EXTINF:-1,cemtv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1026
+#EXTINF:-1,ULUSALTV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/229
+#EXTINF:-1,TV 100 Balikesir
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1101
+#EXTINF:-1,DRT Denizli
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5661
+#EXTINF:-1,Tele1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2499
+#EXTINF:-1,Kanal23Elazig
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/261
+#EXTINF:-1,Kanal Urfa
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5670
+#EXTINF:-1,OrduAltas
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2143
+#EXTINF:-1,BOMERANG
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4347
+#EXTINF:-1,Kanal Avrupa
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4348
+#EXTINF:-1,Rumeli
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4346
+#EXTINF:-1,KralTV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5665
+#EXTINF:-1,kraltvpop
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/55
+#EXTINF:-1,MGC TV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/185
+#EXTINF:-1,Damar tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5669
+#EXTINF:-1,numberoneTURK
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/187
+#EXTINF:-1,NumberONE
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/269
+#EXTINF:-1,powerturk
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/266
+#EXTINF:-1,powerhd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/210
+#EXTINF:-1,dreamturk
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/603
+#EXTINF:-1,MILYON TV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5666
+#EXTINF:-1,GALA
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2498
+#EXTINF:-1,trtmuzik
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/208
+#EXTINF:-1,24 KITCHEN
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5667
+#EXTINF:-1,EkoTurk
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/604
+#EXTINF:-1,Makina tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1083
+#EXTINF:-1,vatantv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/212
+#EXTINF:-1,KRTTV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2471
+#EXTINF:-1,tv5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2146
+#EXTINF:-1,DostTV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2142
+#EXTINF:-1,mavikaradeniz
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2139
+#EXTINF:-1,yabantv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2145
+#EXTINF:-1,SHOWMAX
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/270
+#EXTINF:-1,HALK
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/326
+#EXTINF:-1,AnadoluDernek
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1450
+#EXTINF:-1,LALEGUL
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/323
+#EXTINF:-1,Semerkand tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/115
+#EXTINF:-1,kanal58
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/113
+#EXTINF:-1,MELTEM
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1451
+#EXTINF:-1,medine-live
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2230
+#EXTINF:-1,mekke-live
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2229
+#EXTINF:-1,TRTDlYANET
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2219
+#EXTINF:-1,kanalfiratElazig
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1454
+#EXTINF:-1,Duguntv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1452
+#EXTINF:-1,Afyon tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3987
+#EXTINF:-1,Turkiyem TV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3272
+#EXTINF:-1,kontv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1407
+#EXTINF:-1,turkmaxgurme
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/131
+#EXTINF:-1,AKlLLl
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1102
+#EXTINF:-1,gstv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1029
+#EXTINF:-1,fbtv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1030
+#EXTINF:-1,TLC
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/328
+#EXTINF:-1,DMAX
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/100
+#EXTINF:-1,TRTBELGESEL
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/228
+#EXTINF:-1,ANIMAUX
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5672
+#EXTINF:-1,Animal.Planet.HD.
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/105
+#EXTINF:-1,Discovery.HD.(TR/ENG)
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/486
+#EXTINF:-1,National-Geographic-
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/485
+#EXTINF:-1,Nationalgeo-wild
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1024
+#EXTINF:-1,DiscoverySCI.
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1027
+#EXTINF:-1,DiscoveryIDX.
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/204
+#EXTINF:-1,Historychannel.
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1105
+#EXTINF:-1,BBC EARTH HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1678
+#EXTINF:-1,NAT GEO PEOPLE HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1679
+#EXTINF:-1,Discovery DTX Turbo HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1680
+#EXTINF:-1,iztv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1097
+#EXTINF:-1,AV TV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6634
+#EXTINF:-1,Viaset History
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4361
+#EXTINF:-1,kemalsunal1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/184
+#EXTINF:-1,kemalsunal2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/127
+#EXTINF:-1,Kemalsunal3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3273
+#EXTINF:-1,Kemalsunal4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3274
+#EXTINF:-1,Yesilcam
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/182
+#EXTINF:-1,Yesilcam1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/132
+#EXTINF:-1,Yesilcam2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/488
+#EXTINF:-1,Yesilcam4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/324
+#EXTINF:-1,sinema salon ne var
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7108
+#EXTINF:-1,sinema salon 1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7109
+#EXTINF:-1,sinema salon 2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7110
+#EXTINF:-1,sinema salon 3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7111
+#EXTINF:-1,sinema salon 4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7112
+#EXTINF:-1,sinema salon 5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7113
+#EXTINF:-1,sinema salon 6
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7114
+#EXTINF:-1,sinema salon 7
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7115
+#EXTINF:-1,sinema salon 8
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7116
+#EXTINF:-1,sinema salon 9
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7117
+#EXTINF:-1,sinema salon 10
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7118
+#EXTINF:-1,Box ofice1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7914
+#EXTINF:-1,Box ofice2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7915
+#EXTINF:-1,Box ofice3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7916
+#EXTINF:-1,Box ofice4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7917
+#EXTINF:-1,Box ofice5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7918
+#EXTINF:-1,Box ofice6
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7919
+#EXTINF:-1,Box ofice7
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7920
+#EXTINF:-1,Box ofice8
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7921
+#EXTINF:-1,Box ofice9
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7922
+#EXTINF:-1,Box ofice10
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7923
+#EXTINF:-1,Box ofice11
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7924
+#EXTINF:-1,Box ofice12
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7925
+#EXTINF:-1,Box ofice13
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7926
+#EXTINF:-1,Box ofice14
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7927
+#EXTINF:-1,Box ofice15
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7928
+#EXTINF:-1,Cinema1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7929
+#EXTINF:-1,Cinema2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7930
+#EXTINF:-1,Cinema3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7931
+#EXTINF:-1,Cinema4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7932
+#EXTINF:-1,Cinema5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7933
+#EXTINF:-1,Cinema6
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7934
+#EXTINF:-1,Cinema7
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7935
+#EXTINF:-1,Cinema8
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7936
+#EXTINF:-1,Cinema9
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7937
+#EXTINF:-1,Cinema10
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7938
+#EXTINF:-1,salon1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/130
+#EXTINF:-1,salon2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/124
+#EXTINF:-1,Yerli1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/126
+#EXTINF:-1,Yerli2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/183
+#EXTINF:-1,cineTURK
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/119
+#EXTINF:-1,sinemaTURK
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/602
+#EXTINF:-1,LOCA 1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/117
+#EXTINF:-1,LOCA  2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/118
+#EXTINF:-1,LOCA 3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/264
+#EXTINF:-1,bein-movie1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1033
+#EXTINF:-1,bein-movie2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1032
+#EXTINF:-1,bein-movie3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/134
+#EXTINF:-1,beIN MOVIES TURK
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/332
+#EXTINF:-1,beIN MOVIES COMDY
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/125
+#EXTINF:-1,beIN MOVIES FAMILY
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2015
+#EXTINF:-1,beIN  MOVlES  VlCE
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/624
+#EXTINF:-1,beIN MOVIES STARS
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2017
+#EXTINF:-1,beIN  MOVlES  SCI-F
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/129
+#EXTINF:-1,beIN MOVIES ACTlON2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/207
+#EXTINF:-1,beIN MOVIES PREMIER
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/188
+#EXTINF:-1,beIN MOVIES ACITON
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/209
+#EXTINF:-1,beIN MOVIES SERIES DRAM
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2014
+#EXTINF:-1,SINEMA TV
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/487
+#EXTINF:-1,SINEMA TV YERLI HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/217
+#EXTINF:-1,SINEMA TV YERLI 2 HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/283
+#EXTINF:-1,SINEMA TV AILE 2 HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/327
+#EXTINF:-1,SINEMA TV AILE HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/489
+#EXTINF:-1,SINEMA TV ACTION 2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3263
+#EXTINF:-1,SINEMA TV KOMEDI 2 HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3264
+#EXTINF:-1,SINEMA TV KOMEDI HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3265
+#EXTINF:-1,SINEMA TV 1002 HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3266
+#EXTINF:-1,SINEMA TV 1001 HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3267
+#EXTINF:-1,SINEMA TV ACTION
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3268
+#EXTINF:-1,DSMART | DIZI SMART PREMIUM
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6601
+#EXTINF:-1,DSMART | MOVlESMART ACTlON HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6596
+#EXTINF:-1,DSMART | MOVlESMART CLASSlC HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6597
+#EXTINF:-1,DSMART | MOVlESMART PLATlN 2 HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6600
+#EXTINF:-1,DSMART | MOVIE SMART GOLD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6602
+#EXTINF:-1,DSMART | MOVIE SMART PLATIN
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6603
+#EXTINF:-1,DSMART | MOVIE SMART PREMIUM
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6593
+#EXTINF:-1,DSMART | MOVIE SMART PREMIUM 2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6594
+#EXTINF:-1,DSMART | MOVIE SMART TURK
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6595
+#EXTINF:-1,DSMART | MOVIESMART COCUK HD 1080
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6604
+#EXTINF:-1,DSMART | MOVIESMART FAMILY
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6598
+#EXTINF:-1,DSMART | MOVIESMART FEST
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6599
+#EXTINF:-1,Turk1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6586
+#EXTINF:-1,Family film
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6587
+#EXTINF:-1,comedyturk
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6590
+#EXTINF:-1,Dark film
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6592
+#EXTINF:-1,Fantastik film
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6588
+#EXTINF:-1,Crime film
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6589
+#EXTINF:-1,FX
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3269
+#EXTINF:-1,Foxlife
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3270
+#EXTINF:-1,Fox crime
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3271
+#EXTINF:-1,kayseri meydan
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4249
+#EXTINF:-1,kayseri meydan2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4250
+#EXTINF:-1,kayseri forum
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4367
+#EXTINF:-1,kayseri Hunat
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4365
+#EXTINF:-1,kayseri Hunat2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4363
+#EXTINF:-1,kayseri Hunat3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4251
+#EXTINF:-1,kayseri nato
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4252
+#EXTINF:-1,erciyes/tekir
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4303
+#EXTINF:-1,erciyes/gondol
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6639
+#EXTINF:-1,erciyes/pist
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6642
+#EXTINF:-1,erciyes/otopark
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4304
+#EXTINF:-1,erciyes/kizak alani
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4305
+#EXTINF:-1,Sivas canli1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4357
+#EXTINF:-1,Sivas canli2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4358
+#EXTINF:-1,Sivas canli3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4359
+#EXTINF:-1,Corum meydan
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4370
+#EXTINF:-1,Aksaaray meydan
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4360
+#EXTINF:-1,Aksaaray 2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4366
+#EXTINF:-1,kapadokya/uchisar
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4248
+#EXTINF:-1,Tokat meydan
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4362
+#EXTINF:-1,Didim
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4368
+#EXTINF:-1,Didim2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4369
+#EXTINF:-1,Fethiye
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6632
+#EXTINF:-1,Marmaris4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6635
+#EXTINF:-1,Rize
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6636
+#EXTINF:-1,Bodrum1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6640
+#EXTINF:-1,Bodrum2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6641
+#EXTINF:-1,cesme1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6638
+#EXTINF:-1,Marmaris1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6633
+#EXTINF:-1,Marmaris2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4364
+#EXTINF:-1,Marmaris3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6637
+#EXTINF:-1,aze- Gunesh
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7307
+#EXTINF:-1,aze-amc
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7310
+#EXTINF:-1,aze-azadtv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7316
+#EXTINF:-1,aze-aztv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7311
+#EXTINF:-1,aze-cbc
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7313
+#EXTINF:-1,aze-CBC-Sport
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7320
+#EXTINF:-1,aze-ictimai
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7312
+#EXTINF:-1,aze-idman
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7317
+#EXTINF:-1,aze-lider
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7309
+#EXTINF:-1,aze-medeniyet
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7314
+#EXTINF:-1,aze-Region
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7319
+#EXTINF:-1,aze-space
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7308
+#EXTINF:-1,aze-Trkel
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7318
+#EXTINF:-1,aze-Xazar
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7315
+#EXTINF:-1,de-dasErsteHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2387
+#EXTINF:-1,de-zdfHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2381
+#EXTINF:-1,de-rtlHD.
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/201
+#EXTINF:-1,de-Sat1HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2392
+#EXTINF:-1,de-proSiebenHD.
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/196
+#EXTINF:-1,de-rtl2HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2384
+#EXTINF:-1,de-voxHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/159
+#EXTINF:-1,de-kabeleinsHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1894
+#EXTINF:-1,de-ntv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/361
+#EXTINF:-1,de-fox
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1103
+#EXTINF:-1,de-tlc
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/195
+#EXTINF:-1,de-wdr
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1639
+#EXTINF:-1,de-tntfilm
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/157
+#EXTINF:-1,de-tntcomedy
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/191
+#EXTINF:-1,de-tntserie
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/214
+#EXTINF:-1,de-zeeone
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1075
+#EXTINF:-1,de-skyheimat
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/454
+#EXTINF:-1,de-skyfamilyHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1069
+#EXTINF:-1,de-skycinemaHitsHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2395
+#EXTINF:-1,de-skycinema+1HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/227
+#EXTINF:-1,de-skycinemaHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/202
+#EXTINF:-1,de-SkyatlanticHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2375
+#EXTINF:-1,de-skycinema24HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2376
+#EXTINF:-1,de-skycomedyHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/194
+#EXTINF:-1,de-skyemotionHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/263
+#EXTINF:-1,de-sky1HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2378
+#EXTINF:-1,de-skyactionHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/197
+#EXTINF:-1,de-sky13thstretHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2380
+#EXTINF:-1,de-syfHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2386
+#EXTINF:-1,de-skycrime
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/281
+#EXTINF:-1,de-skynostalji
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/444
+#EXTINF:-1,de-zdfneo
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/449
+#EXTINF:-1,de-atv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7124
+#EXTINF:-1,de-atv2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7125
+#EXTINF:-1,de-zdfinfo
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7126
+#EXTINF:-1,de-servustv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7127
+#EXTINF:-1,de-ProSieben FUN HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2382
+#EXTINF:-1,de-proSiebenMaxx
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2396
+#EXTINF:-1,de-SuperrtlHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2393
+#EXTINF:-1,de-bomerangg
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/453
+#EXTINF:-1,de-toggoplus
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/199
+#EXTINF:-1,DE-Disney channel.
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1642
+#EXTINF:-1,de-disneycinemagic
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/455
+#EXTINF:-1,de-kika
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/162
+#EXTINF:-1,de-Nickelodeon
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2369
+#EXTINF:-1,de-junior
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/419
+#EXTINF:-1,de-disneyjunior
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/282
+#EXTINF:-1,de-disneyxd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1073
+#EXTINF:-1,de-cartonnetwork
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/445
+#EXTINF:-1,de-E! Entertainm
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2368
+#EXTINF:-1,de-kabeleinsdoku
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1071
+#EXTINF:-1,de-sixx
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/452
+#EXTINF:-1,de-VIVA-Comedy-DE
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1644
+#EXTINF:-1,de-sat1gold
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1637
+#EXTINF:-1,de-Spiegel-Geschichte
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1636
+#EXTINF:-1,de-arte
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1896
+#EXTINF:-1,de-rtlpliving
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4921
+#EXTINF:-1,de-Auto Motor Sport Channel
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3242
+#EXTINF:-1,de-mtv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/166
+#EXTINF:-1,de-dmax.
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1898
+#EXTINF:-1,de-Rtl Nitro
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4923
+#EXTINF:-1,de-3satHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1526
+#EXTINF:-1,de-Euronews
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1895
+#EXTINF:-1,de-nrj
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/422
+#EXTINF:-1,de-kinowelt
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/267
+#EXTINF:-1,de-orf1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1072
+#EXTINF:-1,de-orf2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/447
+#EXTINF:-1,de-tele5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1638
+#EXTINF:-1,de-discoverychHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2388
+#EXTINF:-1,de-natgeraphic
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/420
+#EXTINF:-1,de-nat-geowildHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/161
+#EXTINF:-1,de-HistorychannelHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2220
+#EXTINF:-1,de-rtl-passion
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1068
+#EXTINF:-1,de-rtlcrime
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/450
+#EXTINF:-1,de-select1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6520
+#EXTINF:-1,de-select2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6521
+#EXTINF:-1,de-select3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6522
+#EXTINF:-1,de-select4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6523
+#EXTINF:-1,de-select5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6524
+#EXTINF:-1,de-skyselect1hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6508
+#EXTINF:-1,de-skyselect2hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6509
+#EXTINF:-1,de-skyselect3hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6510
+#EXTINF:-1,de-skyselect4hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6511
+#EXTINF:-1,de-skyselect5hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6512
+#EXTINF:-1,de-skyselect6hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6513
+#EXTINF:-1,de-skyselect7hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6514
+#EXTINF:-1,de-max1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6517
+#EXTINF:-1,de-max2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6518
+#EXTINF:-1,de-skyselect1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/221
+#EXTINF:-1,de-skyselect2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/222
+#EXTINF:-1,de-skyselect3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/223
+#EXTINF:-1,de-skyselect4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/224
+#EXTINF:-1,de-skyselect5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/225
+#EXTINF:-1,de-skyselect9
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2127
+#EXTINF:-1,de-skyselect8
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2128
+#EXTINF:-1,de-skyselect7
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2129
+#EXTINF:-1,de-skyselect6
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2130
+#EXTINF:-1,de-skyselect10
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1447
+#EXTINF:-1,DE-Dazn1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2390
+#EXTINF:-1,DE-Dazn1//backup
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7335
+#EXTINF:-1,DE-Dazn2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1899
+#EXTINF:-1,DE-Dazn2//backup
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7336
+#EXTINF:-1,de-eurosport2/xtra
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1897
+#EXTINF:-1,de-sport1sky
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/8034
+#EXTINF:-1,de-sport2sky
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/8035
+#EXTINF:-1,de-sport3sky
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/8036
+#EXTINF:-1,de-bundesliga1HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/156
+#EXTINF:-1,de-bundesliga1BACKUP
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3236
+#EXTINF:-1,de-bundesliga2HD/playtime
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/352
+#EXTINF:-1,de-bundesliga2BACKUP
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3237
+#EXTINF:-1,de-bundesliga3HD/playtime
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1019
+#EXTINF:-1,de-bundesliga3BACKUP
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3238
+#EXTINF:-1,de-bundesliga4HD/playtime
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1020
+#EXTINF:-1,de-bundesliga4BACKUP
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3239
+#EXTINF:-1,de-bundesliga5HD/playtime
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1070
+#EXTINF:-1,de-bundesliga5BACKUP
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3240
+#EXTINF:-1,de-bundesliga6HD/playtime
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1527
+#EXTINF:-1,de-bundesliga6BACKUP
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3241
+#EXTINF:-1,de-bundesliga7/playtime
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2188
+#EXTINF:-1,de-bundesliga8/playtime
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2189
+#EXTINF:-1,de-bundesliga9/playtime
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2190
+#EXTINF:-1,de-Sky Sport Austria
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4920
+#EXTINF:-1,de- Sport Digital HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4919
+#EXTINF:-1,de-Sport1 US HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4918
+#EXTINF:-1,de-sport1+
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/418
+#EXTINF:-1,de-FC Bayern TV Full HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/200
+#EXTINF:-1,de-motorvizyon
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1640
+#EXTINF:-1,de-nur Spiel Tag1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4680
+#EXTINF:-1,de-nur Spiel Tag2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4681
+#EXTINF:-1,de-nur Spiel Tag3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4682
+#EXTINF:-1,de-nur Spiel Tag4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4683
+#EXTINF:-1,de-nur Spiel Tag5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4684
+#EXTINF:-1,de-nur Spiel Tag6
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4685
+#EXTINF:-1,de-nur Spiel Tag7
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4686
+#EXTINF:-1,de-nur Spiel Tag8
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4687
+#EXTINF:-1,nl-npo1HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/284
+#EXTINF:-1,nl-npo2HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/285
+#EXTINF:-1,nl-npo3HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/286
+#EXTINF:-1,nl-npo1extra
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7563
+#EXTINF:-1,nl-npo zappelin
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7564
+#EXTINF:-1,nl-tlcHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/292
+#EXTINF:-1,nl-rtl4HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/287
+#EXTINF:-1,nl-rtl5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/288
+#EXTINF:-1,nl-rtl7
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/289
+#EXTINF:-1,nl-rtl8
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/290
+#EXTINF:-1,nl-net5.
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/298
+#EXTINF:-1,nl-sbs6
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/297
+#EXTINF:-1,nl-sbs9
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/303
+#EXTINF:-1,nl-fox channel
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/462
+#EXTINF:-1,nl-rtl Z
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1213
+#EXTINF:-1,nl-baby
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/466
+#EXTINF:-1,nl-disneychannel
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/464
+#EXTINF:-1,nl-kitchen
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/467
+#EXTINF:-1,nl-nicjr
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/294
+#EXTINF:-1,nl-cartonnetwork
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/301
+#EXTINF:-1,nl-nictoons
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/468
+#EXTINF:-1,nl-veronicadisneyxd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/463
+#EXTINF:-1,nl-nickmusic
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/428
+#EXTINF:-1,nl-comedy central
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1212
+#EXTINF:-1,nl-Nickelodeon
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/469
+#EXTINF:-1,nl-bomerang
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/299
+#EXTINF:-1,nl-movie1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1077
+#EXTINF:-1,nl-movie2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1078
+#EXTINF:-1,nl-movie3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/465
+#EXTINF:-1,nl-film1primere
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/300
+#EXTINF:-1,nl-film1family
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/291
+#EXTINF:-1,nl-film1action
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/296
+#EXTINF:-1,nl-film1drama
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/426
+#EXTINF:-1,nl-discovery WORLD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1211
+#EXTINF:-1,nl-Discovery Channel
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7575
+#EXTINF:-1,nl-DISCOVERY SCIENCE
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7576
+#EXTINF:-1,nl-History CHANNEL
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7573
+#EXTINF:-1,nl-rtl crime
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7566
+#EXTINF:-1,nl-spike
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/293
+#EXTINF:-1,nl-foxsport1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/371
+#EXTINF:-1,nl-foxsport2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/372
+#EXTINF:-1,nl-foxsport3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/373
+#EXTINF:-1,nl-foxsport4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1214
+#EXTINF:-1,nl-foxsport5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2253
+#EXTINF:-1,nl-foxsport6
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2254
+#EXTINF:-1,nl-ziggosportextra1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1256
+#EXTINF:-1,nl-ziggosportextra2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4776
+#EXTINF:-1,nl-ziggosportvoetbol
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1253
+#EXTINF:-1,nl-ziggosportracing
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1255
+#EXTINF:-1,nl-ziggosportgolf
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4774
+#EXTINF:-1,nl-ziggosportselect
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4775
+#EXTINF:-1,nl-ziggosportdoku
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4773
+#EXTINF:-1,fr-discovery
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3058
+#EXTINF:-1,fr-discovery sci
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1809
+#EXTINF:-1,fr-discovery investiga
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1813
+#EXTINF:-1,fr-natgeo wild
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3059
+#EXTINF:-1,fr-National Geographic
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3060
+#EXTINF:-1,fr-serie cluphd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3057
+#EXTINF:-1,fr-france2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/359
+#EXTINF:-1,fr-france3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/315
+#EXTINF:-1,fr-france4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/164
+#EXTINF:-1,fr-france5hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/358
+#EXTINF:-1,fr-franceO
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3047
+#EXTINF:-1,fr-france24
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/457
+#EXTINF:-1,fr-bfm
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/930
+#EXTINF:-1,fr-disneychannelhd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/165
+#EXTINF:-1,fr-niceledionhd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/309
+#EXTINF:-1,fr-cartonnetwork
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/914
+#EXTINF:-1,fr-DisneyCinemahd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/915
+#EXTINF:-1,fr-Disneyjuniorhd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/924
+#EXTINF:-1,fr-niceledionteen
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1080
+#EXTINF:-1,fr-Boomeranghd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/460
+#EXTINF:-1,fr-Mangashd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/922
+#EXTINF:-1,fr-Gullihd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/314
+#EXTINF:-1,fr-niceledionjuniorhd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/910
+#EXTINF:-1,fr-Boinghd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1660
+#EXTINF:-1,fr-piwi
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3053
+#EXTINF:-1,fr-gameone
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4942
+#EXTINF:-1,fr-j one
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3046
+#EXTINF:-1,fr-6ter
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/923
+#EXTINF:-1,fr-RMC DECOUVERTE hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1826
+#EXTINF:-1,fr-13eme_ruehd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3050
+#EXTINF:-1,fr-tfxhd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/926
+#EXTINF:-1,fr-Voyage. hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1815
+#EXTINF:-1,fr-m6hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/918
+#EXTINF:-1,fr-w9hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/911
+#EXTINF:-1,fr-E!
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2364
+#EXTINF:-1,fr-tmc
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2363
+#EXTINF:-1,fr-teva
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1811
+#EXTINF:-1,fr-bfm paris
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4941
+#EXTINF:-1,fr-ab3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4939
+#EXTINF:-1,fr-paramounth decale
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4936
+#EXTINF:-1,fr-mezzo
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4938
+#EXTINF:-1,fr-tcm cinema
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4937
+#EXTINF:-1,fr-arte
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1822
+#EXTINF:-1,fr-mycusine
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1814
+#EXTINF:-1,fr-tf1hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/308
+#EXTINF:-1,fr-mtv hits
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/933
+#EXTINF:-1,fr-mtv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/912
+#EXTINF:-1,fr-ocscity hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1816
+#EXTINF:-1,fr-tevahd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2360
+#EXTINF:-1,fr-nrj12hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/320
+#EXTINF:-1,fr-RTL 9hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/458
+#EXTINF:-1,fr-Equidia_Live
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2362
+#EXTINF:-1,fr-lci
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7517
+#EXTINF:-1,fr-oltv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7516
+#EXTINF:-1,fr-foot 24/24
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7512
+#EXTINF:-1,fr-cnews
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1821
+#EXTINF:-1,fr-beinsport1 hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/307
+#EXTINF:-1,fr-beinsport2 hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/306
+#EXTINF:-1,fr-beinsport3 hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/305
+#EXTINF:-1,fr-beinsportmax4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1777
+#EXTINF:-1,fr-beinsportmax5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1778
+#EXTINF:-1,fr-beinsportmax6
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3055
+#EXTINF:-1,fr-beinsportmax7
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/3056
+#EXTINF:-1,fr-eurosport2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1806
+#EXTINF:-1,fr-eurosport1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1807
+#EXTINF:-1,ar-2m maroc
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7659
+#EXTINF:-1,ar-mbc bollwod
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7657
+#EXTINF:-1,ar-mbc plus drama
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7654
+#EXTINF:-1,ar-mbc variety
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7658
+#EXTINF:-1,ar-mbc1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7648
+#EXTINF:-1,ar-mbc2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7649
+#EXTINF:-1,ar-mbc3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7650
+#EXTINF:-1,ar-mbc4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7651
+#EXTINF:-1,ar-mbcaction
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7652
+#EXTINF:-1,ar-mbcdrama
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7655
+#EXTINF:-1,ar-mbcmasr
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7656
+#EXTINF:-1,ar-mbcmax
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7653
+#EXTINF:-1,ar-me sat
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7807
+#EXTINF:-1,ar-mevher
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7806
+#EXTINF:-1,ar-nbn
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7808
+#EXTINF:-1,ar-nbn lebanon
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7686
+#EXTINF:-1,ar-nile cinema
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7685
+#EXTINF:-1,ar-nile culture
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7720
+#EXTINF:-1,ar-nile drama
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7721
+#EXTINF:-1,ar-nile family
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7725
+#EXTINF:-1,ar-nile life
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7722
+#EXTINF:-1,ar-nile news
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7723
+#EXTINF:-1,ar-nile tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7724
+#EXTINF:-1,ar-abu dhabi nat geo
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7667
+#EXTINF:-1,ar-ad sport1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7664
+#EXTINF:-1,ar-afak
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7679
+#EXTINF:-1,ar-aghanina
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7687
+#EXTINF:-1,ar-aghapy
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7777
+#EXTINF:-1,ar-Al Adjwaa
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7770
+#EXTINF:-1,ar-al agsa
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7694
+#EXTINF:-1,ar-al alam
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7665
+#EXTINF:-1,ar-al anbar
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7678
+#EXTINF:-1,ar-al anis
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7771
+#EXTINF:-1,ar-al arabia
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7689
+#EXTINF:-1,ar-al fady
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7778
+#EXTINF:-1,ar-al ghad
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7758
+#EXTINF:-1,ar-al iman
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7680
+#EXTINF:-1,ar-al jade
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7676
+#EXTINF:-1,ar-al jazire docu
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7662
+#EXTINF:-1,ar-al jazire mubasher
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7663
+#EXTINF:-1,ar-al kahare
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7786
+#EXTINF:-1,ar-al kofiye
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7681
+#EXTINF:-1,ar-al kout
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7755
+#EXTINF:-1,ar-al manar
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7666
+#EXTINF:-1,ar-al masirah
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7698
+#EXTINF:-1,ar-al nada
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7772
+#EXTINF:-1,ar-al nahar
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7709
+#EXTINF:-1,ar-al nas
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7773
+#EXTINF:-1,ar-al ons
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7774
+#EXTINF:-1,ar-al oula
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7691
+#EXTINF:-1,ar-al rashed
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7695
+#EXTINF:-1,ar-al sirat
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7688
+#EXTINF:-1,ar-al sumari
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7696
+#EXTINF:-1,ar-algeria3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7782
+#EXTINF:-1,ar-algeria4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7783
+#EXTINF:-1,ar-algeria5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7784
+#EXTINF:-1,ar-alhadat
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7670
+#EXTINF:-1,ar-alhanar drama
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7789
+#EXTINF:-1,ar-alhayat
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7779
+#EXTINF:-1,ar-alhayat musalsalat
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7799
+#EXTINF:-1,ar-altaghi
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7700
+#EXTINF:-1,ar-arrabia
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7702
+#EXTINF:-1,ar-arriadia
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7703
+#EXTINF:-1,ar-art aflam1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7692
+#EXTINF:-1,ar-art aflam2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7693
+#EXTINF:-1,ar-art alkayat
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7683
+#EXTINF:-1,ar-art alkayat2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7690
+#EXTINF:-1,ar-asia tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7697
+#EXTINF:-1,ar-azhari
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7775
+#EXTINF:-1,ar-b4u  aflam
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7748
+#EXTINF:-1,ar-bahia
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7776
+#EXTINF:-1,ar-bein baraem
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7728
+#EXTINF:-1,ar-bein fatafeat
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7729
+#EXTINF:-1,ar-bein jeem
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7730
+#EXTINF:-1,ar-bein nba tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7726
+#EXTINF:-1,ar-beinmovies1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7733
+#EXTINF:-1,ar-beinmovies2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7734
+#EXTINF:-1,ar-beinmovies3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7735
+#EXTINF:-1,ar-beinmovies4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7736
+#EXTINF:-1,ar-cairo cinema
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7791
+#EXTINF:-1,ar-cairo drama
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7792
+#EXTINF:-1,ar-carton network
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7699
+#EXTINF:-1,ar-cbc
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7704
+#EXTINF:-1,ar-cbcdrama
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7705
+#EXTINF:-1,ar-cbcextra
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7706
+#EXTINF:-1,ar-cbcsofra
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7707
+#EXTINF:-1,ar-cima
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7803
+#EXTINF:-1,ar-cima ali baba
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7804
+#EXTINF:-1,ar-cima tube
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7805
+#EXTINF:-1,ar-cinema pro
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7788
+#EXTINF:-1,ar-dmc
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7713
+#EXTINF:-1,ar-dream2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7793
+#EXTINF:-1,ar-dubai 1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7708
+#EXTINF:-1,ar-dubaizaman
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7701
+#EXTINF:-1,ar-Echorouk benna
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7754
+#EXTINF:-1,ar-elques
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7759
+#EXTINF:-1,ar-entv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7727
+#EXTINF:-1,ar-halaba tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7766
+#EXTINF:-1,ar-hannibal
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7800
+#EXTINF:-1,ar-hedaye
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7767
+#EXTINF:-1,ar-ifilm
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7787
+#EXTINF:-1,ar-kanal algeria
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7785
+#EXTINF:-1,ar-karamesh
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7752
+#EXTINF:-1,ar-Kuran tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7674
+#EXTINF:-1,ar-ldc
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7668
+#EXTINF:-1,ar-libya
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7765
+#EXTINF:-1,ar-libya 218
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7760
+#EXTINF:-1,ar-libya al ahrar
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7761
+#EXTINF:-1,ar-libya nws
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7762
+#EXTINF:-1,ar-libya one
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7763
+#EXTINF:-1,ar-libya rasmia
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7764
+#EXTINF:-1,ar-noursat
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7737
+#EXTINF:-1,ar-nrt2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7751
+#EXTINF:-1,ar-on drama
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7801
+#EXTINF:-1,ar-on e tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7802
+#EXTINF:-1,a-osn cinema1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7682
+#EXTINF:-1,ar-osn action2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7684
+#EXTINF:-1,ar-osn disney unior
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7744
+#EXTINF:-1,ar-osn disneyxd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7738
+#EXTINF:-1,ar-osn movies action2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7739
+#EXTINF:-1,ar-osn movies comedy
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7740
+#EXTINF:-1,ar-osn movies primera
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7741
+#EXTINF:-1,ar-osn movies primera 2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7745
+#EXTINF:-1,ar-osn music now
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7750
+#EXTINF:-1,ar-osn news
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7677
+#EXTINF:-1,ar-osn star movie
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7675
+#EXTINF:-1,ar-osn yaha la
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7747
+#EXTINF:-1,ar-osn yaha la shabab
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7743
+#EXTINF:-1,ar-outdoor
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7746
+#EXTINF:-1,ar-palestina tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7719
+#EXTINF:-1,ar-panoroma drama
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7790
+#EXTINF:-1,ar-panoroma drama2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7794
+#EXTINF:-1,ar-panoroma film
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7749
+#EXTINF:-1,ar-panoroma foot
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7795
+#EXTINF:-1,ar-rotana aflam
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7718
+#EXTINF:-1,ar-rotana cinema
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7717
+#EXTINF:-1,ar-rotana classic
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7716
+#EXTINF:-1,ar-rotana khala
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7673
+#EXTINF:-1,ar-rotana masria
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7672
+#EXTINF:-1,ar-rotana music
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7715
+#EXTINF:-1,ar-Sada El Balad 2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7757
+#EXTINF:-1,ar-Sada El Balad HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7756
+#EXTINF:-1,ar-samadubai
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7732
+#EXTINF:-1,ar-samatv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7731
+#EXTINF:-1,ar-samira tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7671
+#EXTINF:-1,ar-sat7
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7780
+#EXTINF:-1,ar-sat7 K?DS
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7781
+#EXTINF:-1,ar-shabab tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7768
+#EXTINF:-1,ar-space toon
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7753
+#EXTINF:-1,ar-star cinema1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7796
+#EXTINF:-1,ar-star cinema2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7797
+#EXTINF:-1,ar-sudania24
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7769
+#EXTINF:-1,ar-suhail
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7711
+#EXTINF:-1,ar-sunnatv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7669
+#EXTINF:-1,ar-taha
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7742
+#EXTINF:-1,ar-tamazig maroc
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7660
+#EXTINF:-1,ar-telemaroc
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7661
+#EXTINF:-1,ar-time cinema
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7798
+#EXTINF:-1,ar-toyor aljannah
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7714
+#EXTINF:-1,ar-tunus nat2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7710
+#EXTINF:-1,ar-yemen shabab
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7712
+#EXTINF:-1,por-sport1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5999
+#EXTINF:-1,por-sport+
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6000
+#EXTINF:-1,por-axnblack
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6001
+#EXTINF:-1,por-axnwhite
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6002
+#EXTINF:-1,por-axn
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6003
+#EXTINF:-1,por-foxcomedy
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6004
+#EXTINF:-1,por-foxmovie
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6005
+#EXTINF:-1,por-amc
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6006
+#EXTINF:-1,por-cinemundo
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6007
+#EXTINF:-1,por-hollywood
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6008
+#EXTINF:-1,por-tvseries
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6009
+#EXTINF:-1,por-tvcine4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6010
+#EXTINF:-1,por-tvcine3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6011
+#EXTINF:-1,por-tvcine2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6012
+#EXTINF:-1,por-tvcine1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/6013
+#EXTINF:-1,ex-bnmusic
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5953
+#EXTINF:-1,ex-cineaction
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5954
+#EXTINF:-1,ex-cinemax1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5940
+#EXTINF:-1,ex-cinemax2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5941
+#EXTINF:-1,ex-foclife
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5946
+#EXTINF:-1,ex-fox
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5964
+#EXTINF:-1,ex-foxcrime
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5947
+#EXTINF:-1,ex-foxmovie
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5952
+#EXTINF:-1,ex-grand
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5948
+#EXTINF:-1,ex-hayat
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5949
+#EXTINF:-1,ex-hayatfolk
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5950
+#EXTINF:-1,ex-hayatplus
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5951
+#EXTINF:-1,ex-hrt1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5942
+#EXTINF:-1,ex-hrt2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5943
+#EXTINF:-1,ex-hrt3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5944
+#EXTINF:-1,ex-hrt4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5945
+#EXTINF:-1,ex-minitv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5960
+#EXTINF:-1,ex-mrt1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5957
+#EXTINF:-1,ex-mrt2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5958
+#EXTINF:-1,ex-mrt3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5959
+#EXTINF:-1,ex-niceledion
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5961
+#EXTINF:-1,ex-nova rs
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5962
+#EXTINF:-1,ex-novatv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5963
+#EXTINF:-1,ex-pink1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5966
+#EXTINF:-1,ex-pink2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5967
+#EXTINF:-1,ex-pink3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5968
+#EXTINF:-1,ex-pinkaction
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5969
+#EXTINF:-1,ex-pinkbh
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5970
+#EXTINF:-1,ex-pinkcomedy
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5971
+#EXTINF:-1,ex-pinkcrime
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5972
+#EXTINF:-1,ex-pinkextra
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5973
+#EXTINF:-1,ex-pinkfilm
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5974
+#EXTINF:-1,ex-pinkfolk
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5975
+#EXTINF:-1,ex-pinkfolk2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5976
+#EXTINF:-1,ex-pinkhits2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5977
+#EXTINF:-1,ex-pinkhorror
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5978
+#EXTINF:-1,ex-pinkkids
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5979
+#EXTINF:-1,ex-pinkkoncert
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5980
+#EXTINF:-1,ex-pinkmovie
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5982
+#EXTINF:-1,ex-pinkmusic
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5983
+#EXTINF:-1,ex-pinkmusic2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5984
+#EXTINF:-1,ex-pinkplus
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5985
+#EXTINF:-1,ex-pinkpremium
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5986
+#EXTINF:-1,ex-pinkrealty
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5987
+#EXTINF:-1,ex-pinkroll
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5965
+#EXTINF:-1,ex-pinkromance
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5988
+#EXTINF:-1,ex-pinksoap
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5989
+#EXTINF:-1,ex-pinksuperkids
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5990
+#EXTINF:-1,ex-pinl m
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5981
+#EXTINF:-1,ex-premier1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5955
+#EXTINF:-1,ex-premier2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5956
+#EXTINF:-1,ex-rtlcrime
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5997
+#EXTINF:-1,ex-rtlpassion
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5998
+#EXTINF:-1,ex-rts1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5991
+#EXTINF:-1,ex-rts2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5992
+#EXTINF:-1,ex-rts3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5993
+#EXTINF:-1,ex-sportclup1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5994
+#EXTINF:-1,ex-sportclup2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5995
+#EXTINF:-1,ex-sportclup3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5996
+#EXTINF:-1,alb-rtk1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5040
+#EXTINF:-1,alb-rtk2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5041
+#EXTINF:-1,alb-rtk3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5042
+#EXTINF:-1,alb-rtk4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5043
+#EXTINF:-1,alb-rtv 21 junior
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5046
+#EXTINF:-1,alb-rtv 21 mix
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5045
+#EXTINF:-1,alb-rtv21
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5044
+#EXTINF:-1,alb-sofie
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5057
+#EXTINF:-1,alb-klan kosova
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5115
+#EXTINF:-1,alb-tv shenja
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5049
+#EXTINF:-1,alb-vizionplus
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5037
+#EXTINF:-1,alb-top channel
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5034
+#EXTINF:-1,alb-top news
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5036
+#EXTINF:-1,alb-alsat
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5048
+#EXTINF:-1,alb-anime
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5058
+#EXTINF:-1,alb-baby
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5059
+#EXTINF:-1,alb-bang bang
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5052
+#EXTINF:-1,alb-on tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5113
+#EXTINF:-1,alb-channel one
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5051
+#EXTINF:-1,alb-zjarr
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5072
+#EXTINF:-1,alb-cufo
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5054
+#EXTINF:-1,alb-elrodi
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5114
+#EXTINF:-1,alb-first tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5050
+#EXTINF:-1,alb-folk
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5112
+#EXTINF:-1,alb-fox
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5069
+#EXTINF:-1,alb-mrt2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5071
+#EXTINF:-1,alb-fox life
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5070
+#EXTINF:-1,alb-humor1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5101
+#EXTINF:-1,alb-humor2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5102
+#EXTINF:-1,alb-junior
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5053
+#EXTINF:-1,alb-k tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5047
+#EXTINF:-1,alb-kanal 7
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5038
+#EXTINF:-1,alb-klan plus
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5039
+#EXTINF:-1,alb-klan tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5035
+#EXTINF:-1,alb-kino action
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5098
+#EXTINF:-1,alb-kino comedy
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5100
+#EXTINF:-1,alb-alb thriller
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5099
+#EXTINF:-1,alb-film action
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5061
+#EXTINF:-1,alb-film author
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5064
+#EXTINF:-1,alb-film comedy
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5063
+#EXTINF:-1,alb-film drame
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5065
+#EXTINF:-1,alb-film dy
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5067
+#EXTINF:-1,alb-film hits
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5062
+#EXTINF:-1,alb-film nje
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5066
+#EXTINF:-1,alb-film stinet
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5068
+#EXTINF:-1,alb-film thiriller
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5060
+#EXTINF:-1,alb-digi gold1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5087
+#EXTINF:-1,alb-digi gold2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5085
+#EXTINF:-1,alb-digi gold3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5084
+#EXTINF:-1,alb-digi gold4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5093
+#EXTINF:-1,alb-digi gold5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5095
+#EXTINF:-1,alb-kino dark
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5097
+#EXTINF:-1,alb-kino family
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5096
+#EXTINF:-1,alb-kino scfi
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5094
+#EXTINF:-1,alb-kinoprimera1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5090
+#EXTINF:-1,alb-kinoprimera2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5091
+#EXTINF:-1,alb-kinoprimera3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5092
+#EXTINF:-1,alb-Shqip TV islam
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5103
+#EXTINF:-1,alb-Shqip TV qefteli
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5108
+#EXTINF:-1,alb-Shqip TV comedy
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5104
+#EXTINF:-1,alb-Shqip TV tom jerry
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5109
+#EXTINF:-1,alb-Shqip TV horror
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5105
+#EXTINF:-1,alb-Shqip TV humor
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5107
+#EXTINF:-1,alb-Shqip TV mimi
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5106
+#EXTINF:-1,alb-Shqip TV hindi
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5111
+#EXTINF:-1,alb-Shqip TV western
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5110
+#EXTINF:-1,alb-sky action
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5082
+#EXTINF:-1,alb-sky Shkence
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5083
+#EXTINF:-1,alb-sky comedy
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5086
+#EXTINF:-1,alb-sky max
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5088
+#EXTINF:-1,alb-syr blue
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5089
+#EXTINF:-1,alb-tring comedy
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5076
+#EXTINF:-1,alb-tring fantasy
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5078
+#EXTINF:-1,alb-western
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5075
+#EXTINF:-1,alb-tring kids
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5056
+#EXTINF:-1,alb-tring life
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5080
+#EXTINF:-1,alb-tring history
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5079
+#EXTINF:-1,alb-ora news
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5073
+#EXTINF:-1,alb-tring planet
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5081
+#EXTINF:-1,alb-tring smile
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5074
+#EXTINF:-1,alb-tring3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5077
+#EXTINF:-1,alb-tring tring
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5055
+#EXTINF:-1,alb-k Sport 1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5122
+#EXTINF:-1,alb-K Sport 2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5123
+#EXTINF:-1,alb-K Sport 3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5124
+#EXTINF:-1,alb-K Sport 4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5125
+#EXTINF:-1,alb-tring sport1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5126
+#EXTINF:-1,alb-tring sport2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5127
+#EXTINF:-1,alb-tring sport3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5128
+#EXTINF:-1,alb-tring sport4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5129
+#EXTINF:-1,alb-supersport kosova1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5120
+#EXTINF:-1,alb-supersport kosova2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5121
+#EXTINF:-1,alb-supersport1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5116
+#EXTINF:-1,alb-supersport2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5117
+#EXTINF:-1,alb-supersport3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5118
+#EXTINF:-1,alb-supersport4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/5119
+#EXTINF:-1,rus-2+2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4707
+#EXTINF:-1,rus-1+1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4713
+#EXTINF:-1,rus-Action-packed HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4709
+#EXTINF:-1,rus-House Cinema Premium
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4708
+#EXTINF:-1,rus-1 hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4694
+#EXTINF:-1,rus-tv1000
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4695
+#EXTINF:-1,rus-Discovery-Channel
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4715
+#EXTINF:-1,rus-Crimea HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4721
+#EXTINF:-1,rus-Rusya1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4705
+#EXTINF:-1,rus-Culture
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4704
+#EXTINF:-1,rus-planet
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4711
+#EXTINF:-1,rus-Sundress
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4719
+#EXTINF:-1,rus-a3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4699
+#EXTINF:-1,rus-h2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4691
+#EXTINF:-1,rus-cartonnetwork
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4703
+#EXTINF:-1,rus-hdlife
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4710
+#EXTINF:-1,rus-Fairy Tales Bunnies
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4735
+#EXTINF:-1,rus-TV Channel-Oh!
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4734
+#EXTINF:-1,rus-hdlife
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4692
+#EXTINF:-1,rus-Cinema Premium HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4736
+#EXTINF:-1,rus-Ether 24
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4722
+#EXTINF:-1,rus-Nat-Geowild
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4716
+#EXTINF:-1,rus-atr
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4702
+#EXTINF:-1,rus-Our Detective
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4739
+#EXTINF:-1,rus-Our Kinoroman
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4738
+#EXTINF:-1,rus-Movie Premiere
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4737
+#EXTINF:-1,rus-tb3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4697
+#EXTINF:-1,rus-World of Belogorye
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4720
+#EXTINF:-1,rus-indian film
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4701
+#EXTINF:-1,rus-one rus tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4698
+#EXTINF:-1,rus-Rossiya24
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4700
+#EXTINF:-1,rus-tht4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4718
+#EXTINF:-1,rus-history
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4696
+#EXTINF:-1,rus-Scary
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4706
+#EXTINF:-1,rus-foot
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4717
+#EXTINF:-1,rus-Tlc
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4693
+#EXTINF:-1,rus-TV1000
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4729
+#EXTINF:-1,rus-TV1000-Action
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4728
+#EXTINF:-1,rus-vipcomedy
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4726
+#EXTINF:-1,rus-vipMegahit
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4725
+#EXTINF:-1,rus-TV1000-Pyc
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4727
+#EXTINF:-1,rus-tiji
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4724
+#EXTINF:-1,rus-nickhd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4730
+#EXTINF:-1,rus-niceledion
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4731
+#EXTINF:-1,rus-nickjr
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4732
+#EXTINF:-1,rus-noise HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4733
+#EXTINF:-1,rus-tht
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4712
+#EXTINF:-1,rus-Peh tb
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/4714
+#EXTINF:-1,gr-alpha
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7611
+#EXTINF:-1,gr-ant1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7609
+#EXTINF:-1,gr-baby
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7620
+#EXTINF:-1,gr-cinefil
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7599
+#EXTINF:-1,gr-discovery
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7593
+#EXTINF:-1,gr-discovery id
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7591
+#EXTINF:-1,gr-hellas
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7616
+#EXTINF:-1,gr-disney unior
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7594
+#EXTINF:-1,gr-ept1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7606
+#EXTINF:-1,gr-ept2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7607
+#EXTINF:-1,gr-ept3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7608
+#EXTINF:-1,gr-riksat
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7610
+#EXTINF:-1,gr-skai
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7614
+#EXTINF:-1,gr-smile
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7621
+#EXTINF:-1,gr-star
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7619
+#EXTINF:-1,gr-ert3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7595
+#EXTINF:-1,gr-extra
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7588
+#EXTINF:-1,gr-fox
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7615
+#EXTINF:-1,gr-hbo
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7589
+#EXTINF:-1,gr-hbo2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7590
+#EXTINF:-1,gr-kids1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7622
+#EXTINF:-1,gr-makedonya
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7617
+#EXTINF:-1,gr-mega
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7612
+#EXTINF:-1,gr-mega channel
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7613
+#EXTINF:-1,gr-montreal
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7618
+#EXTINF:-1,gr-natgeowild
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7592
+#EXTINF:-1,gr-niceledion
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7623
+#EXTINF:-1,gr-action24
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7624
+#EXTINF:-1,gr-nova2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7604
+#EXTINF:-1,gr-novaaction
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7603
+#EXTINF:-1,gr-novacinema1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7625
+#EXTINF:-1,gr-novaprimere1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7626
+#EXTINF:-1,gr-novaprimere2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7627
+#EXTINF:-1,gr-novaprimere3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7628
+#EXTINF:-1,gr-novaprimere4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7629
+#EXTINF:-1,gr-novasport1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7600
+#EXTINF:-1,gr-novasport2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7601
+#EXTINF:-1,gr-novasport3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7602
+#EXTINF:-1,gr-otecinema1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7586
+#EXTINF:-1,gr-otecinema2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7587
+#EXTINF:-1,gr-otesport1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7596
+#EXTINF:-1,gr-otesport2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7597
+#EXTINF:-1,gr-otesport3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7598
+#EXTINF:-1,gr-otesport4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7605
+#EXTINF:-1,ch-+5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2258
+#EXTINF:-1,ch-+4hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2259
+#EXTINF:-1,ch-+3hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2260
+#EXTINF:-1,ch-rtsdeux
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2261
+#EXTINF:-1,ch-srf info
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2266
+#EXTINF:-1,ch-rtsun
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2262
+#EXTINF:-1,ch-teleclupzoom
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2263
+#EXTINF:-1,ch-teleclubprimere
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2269
+#EXTINF:-1,ch-teletop
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2272
+#EXTINF:-1,ch-tele m1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2268
+#EXTINF:-1,ch-teleclupzurih
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2270
+#EXTINF:-1,ch-bundesliga
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2271
+#EXTINF:-1,india-tamil jaya
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1088
+#EXTINF:-1,india-zeecinema
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1089
+#EXTINF:-1,india-anmol
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1090
+#EXTINF:-1,india-zeeclasic
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1091
+#EXTINF:-1,india-colors
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1295
+#EXTINF:-1,india-stargold
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1289
+#EXTINF:-1,india-starplus
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1290
+#EXTINF:-1,india-sonymix
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1296
+#EXTINF:-1,india-zing
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1298
+#EXTINF:-1,india-b4u music
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1291
+#EXTINF:-1,india-zindagi
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1297
+#EXTINF:-1,india-starmovie
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1292
+#EXTINF:-1,india-zeemarathi
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1294
+#EXTINF:-1,india-utvmovies
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1293
+#EXTINF:-1,india-zeeTVHD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1092
+#EXTINF:-1,beinsport1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/147
+#EXTINF:-1,beinsport2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/148
+#EXTINF:-1,beinsport3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/149
+#EXTINF:-1,beinsport4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/150
+#EXTINF:-1,beinsport5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/151
+#EXTINF:-1,beinsport6
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/587
+#EXTINF:-1,beinsport7
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/588
+#EXTINF:-1,beinsport8
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/589
+#EXTINF:-1,beinsport9
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/590
+#EXTINF:-1,beinsport10
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/591
+#EXTINF:-1,pol-4funtv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2882
+#EXTINF:-1,pol-4fun gold
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2883
+#EXTINF:-1,pol-axn
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2885
+#EXTINF:-1,pol-axnblack
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2884
+#EXTINF:-1,pol-viva
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2886
+#EXTINF:-1,pol-axnwhite
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2887
+#EXTINF:-1,pol-canal+
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2846
+#EXTINF:-1,pol-canal+film
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2847
+#EXTINF:-1,pol-canal+seriale
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2848
+#EXTINF:-1,pol-canalfamily
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2854
+#EXTINF:-1,pol-power tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2849
+#EXTINF:-1,pol-puls2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2850
+#EXTINF:-1,pol-cartonnetwork
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2888
+#EXTINF:-1,pol-cbsaction
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2889
+#EXTINF:-1,pol-cbsrealty
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2890
+#EXTINF:-1,pol-cinemax
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2891
+#EXTINF:-1,pol-discovery
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2878
+#EXTINF:-1,pol-discoverysci
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2879
+#EXTINF:-1,pol-disneychannel
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2874
+#EXTINF:-1,pol-cinemax2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2892
+#EXTINF:-1,pol-ale kino
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2893
+#EXTINF:-1,pol-filmboxaction
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2872
+#EXTINF:-1,pol-filmboxfamily
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2871
+#EXTINF:-1,pol-filmboxpremium
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2870
+#EXTINF:-1,pol-fox
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2862
+#EXTINF:-1,pol-foxcomedy
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2861
+#EXTINF:-1,pol-kinopolska
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2877
+#EXTINF:-1,pol-minimini
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2876
+#EXTINF:-1,pol-natgeo
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2869
+#EXTINF:-1,pol-nowa
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2897
+#EXTINF:-1,pol-nickjr
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2896
+#EXTINF:-1,pol-nsport
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2898
+#EXTINF:-1,pol-polotv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2899
+#EXTINF:-1,pol-polsat
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2867
+#EXTINF:-1,pol-polsat2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2868
+#EXTINF:-1,pol-polsatcafe
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2866
+#EXTINF:-1,pol-polsat doku
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2900
+#EXTINF:-1,pol-polsatfilm
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2865
+#EXTINF:-1,pol-polsatjimjam
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2901
+#EXTINF:-1,pol-polsatnews
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2864
+#EXTINF:-1,pol-polsatplay
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2863
+#EXTINF:-1,pol-polsat music
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2902
+#EXTINF:-1,pol-polsatsport
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2903
+#EXTINF:-1,pol-bomerang
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2904
+#EXTINF:-1,pol-superpolsat
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2880
+#EXTINF:-1,pol-teletoon
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2875
+#EXTINF:-1,pol-tlc
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2905
+#EXTINF:-1,pol-tnt
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2906
+#EXTINF:-1,pol-tv4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2860
+#EXTINF:-1,pol-tvn7
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2907
+#EXTINF:-1,pol-tvn24
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2909
+#EXTINF:-1,pol-tvnstyle
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2859
+#EXTINF:-1,pol-Elevensport3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2858
+#EXTINF:-1,pol-tvp1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2856
+#EXTINF:-1,pol-tvp2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2857
+#EXTINF:-1,pol-Elevensport2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2853
+#EXTINF:-1,pol-Elevensport1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2855
+#EXTINF:-1,pol-tvp3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2908
+#EXTINF:-1,pol-tvprozrwka
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2852
+#EXTINF:-1,pol-tvpseriale
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2873
+#EXTINF:-1,pol-tvpsport
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2851
+#EXTINF:-1,pol-alekino
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2910
+#EXTINF:-1,pol-cafe
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2912
+#EXTINF:-1,uk-rte one
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2317
+#EXTINF:-1,uk-bbc1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2305
+#EXTINF:-1,uk-bbc2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2306
+#EXTINF:-1,uk-bbc3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2307
+#EXTINF:-1,uk-bbc4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2308
+#EXTINF:-1,uk-chanel4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2313
+#EXTINF:-1,uk-chanel5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2315
+#EXTINF:-1,uk-tg4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2314
+#EXTINF:-1,uk-rte two
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2316
+#EXTINF:-1,uk-itv1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2309
+#EXTINF:-1,uk-itv2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2310
+#EXTINF:-1,uk-itv3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2311
+#EXTINF:-1,uk-itv4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2312
+#EXTINF:-1,uk-movieselect
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1172
+#EXTINF:-1,uk-nictons
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1180
+#EXTINF:-1,uk-skymovieaction
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1165
+#EXTINF:-1,uk-skymoviecomedy
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1166
+#EXTINF:-1,uk-skyatlantic
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1167
+#EXTINF:-1,uk-skymoviefamily
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1168
+#EXTINF:-1,uk-skymoviescfi
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1171
+#EXTINF:-1,uk-skymoviethriller
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1169
+#EXTINF:-1,uk-skymovieprimere
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1170
+#EXTINF:-1,uk-cartonnetwork
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1173
+#EXTINF:-1,uk-bomerang
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1174
+#EXTINF:-1,imbat fm
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/402
+#EXTINF:-1,slowturk
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/407
+#EXTINF:-1,BESTFM
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/403
+#EXTINF:-1,CANRADYO
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/412
+#EXTINF:-1,BABARADYO
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/404
+#EXTINF:-1,RADYOVOYS
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/413
+#EXTINF:-1,EFKARFM
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/409
+#EXTINF:-1,Numberone
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/406
+#EXTINF:-1,SEYMEN
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/410
+#EXTINF:-1,METROFM
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/408
+#EXTINF:-1,JOYFM
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/399
+#EXTINF:-1,DAMARFM
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/411
+#EXTINF:-1,KRALFM
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/398
+#EXTINF:-1,SUPERFM
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/401
+#EXTINF:-1,KRALPOP .
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/8114
+#EXTINF:-1,SHOWRADYO
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/400
+#EXTINF:-1,be-elevensport2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2622
+#EXTINF:-1,be-een
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2612
+#EXTINF:-1,be-canal5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2619
+#EXTINF:-1,be-bruzz
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2614
+#EXTINF:-1,be-la trois
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2620
+#EXTINF:-1,be-vier
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2613
+#EXTINF:-1,be-RTL TVI
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2623
+#EXTINF:-1,be-two
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2621
+#EXTINF:-1,be-elevensport1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2615
+#EXTINF:-1,be-2be
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2618
+#EXTINF:-1,be-be mad
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2616
+#EXTINF:-1,be-nrj hits
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2617
+#EXTINF:-1,be-canvas
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1239
+#EXTINF:-1,be-cluprtl
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1238
+#EXTINF:-1,be-elevensport3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1240
+#EXTINF:-1,be-vtm
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1237
+#EXTINF:-1,be-ladeux
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1235
+#EXTINF:-1,be-laune
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1234
+#EXTINF:-1,be-plug rtl
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1233
+#EXTINF:-1,be-vitaya
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1236
+#EXTINF:-1,isp-amc
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1749
+#EXTINF:-1,isp-antena3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1750
+#EXTINF:-1,isp-axn
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1751
+#EXTINF:-1,isp-axnwhite
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1752
+#EXTINF:-1,isp-beinlaliga
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1753
+#EXTINF:-1,isp-clantv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1754
+#EXTINF:-1,isp-calle13
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1755
+#EXTINF:-1,isp-comedycentral
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1756
+#EXTINF:-1,isp-fox
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1757
+#EXTINF:-1,isp-foxlife
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1758
+#EXTINF:-1,isp-hollywood
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1759
+#EXTINF:-1,isp-lasexta
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1760
+#EXTINF:-1,isp-moviestaraction
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1761
+#EXTINF:-1,isp-moviestarcomedy
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1762
+#EXTINF:-1,isp-moviestarDcine
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1763
+#EXTINF:-1,isp-moviestardeportes
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1764
+#EXTINF:-1,isp-moviestarliga
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1765
+#EXTINF:-1,isp-moviestardrama
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1766
+#EXTINF:-1,isp-MOVISTAR ALQUILER 1 HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1767
+#EXTINF:-1,isp-MOVISTAR ALQUILER 2 HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1768
+#EXTINF:-1,isp-MOVISTAR ALQUILER 3 HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1769
+#EXTINF:-1,isp-MOVISTAR ALQUILER 4 HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1770
+#EXTINF:-1,isp-MOVISTAR ALQUILER 6 HD
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1771
+#EXTINF:-1,isp-la1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1772
+#EXTINF:-1,isp-la2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1773
+#EXTINF:-1,isp-nova
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1774
+#EXTINF:-1,it-primafila1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1779
+#EXTINF:-1,it-primafila2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1780
+#EXTINF:-1,it-primafila3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1781
+#EXTINF:-1,it-primafila4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1782
+#EXTINF:-1,it-primafila5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1783
+#EXTINF:-1,it-primafila6
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1784
+#EXTINF:-1,bg-actionplus
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2001
+#EXTINF:-1,bg-bnt1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1998
+#EXTINF:-1,bg-bnt2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1999
+#EXTINF:-1,bg-filmbox
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1994
+#EXTINF:-1,bg-btvaction
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1997
+#EXTINF:-1,bg-btvcinema
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1996
+#EXTINF:-1,bg-disneychannel
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1995
+#EXTINF:-1,bg-btv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1993
+#EXTINF:-1,bg-natgeografig
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1992
+#EXTINF:-1,bg-diema
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1988
+#EXTINF:-1,bg-balkanamusic
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1991
+#EXTINF:-1,bg-diemasport1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1990
+#EXTINF:-1,bg-diemasport2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1989
+#EXTINF:-1,bg-fentv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1987
+#EXTINF:-1,bg-diemafamily
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1986
+#EXTINF:-1,bg-jimjam
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1985
+#EXTINF:-1,bg-btvlady
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1984
+#EXTINF:-1,bg-kinonova
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1983
+#EXTINF:-1,bg-music
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2000
+#EXTINF:-1,bg-box
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1982
+#EXTINF:-1,bg-babytv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1981
+#EXTINF:-1,bg-cinemax2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1980
+#EXTINF:-1,bg-cinemax1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1979
+#EXTINF:-1,bg-cinemaxplus
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1978
+#EXTINF:-1,bg-axn
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1971
+#EXTINF:-1,bg-tv1000
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1975
+#EXTINF:-1,bg-film plus
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1976
+#EXTINF:-1,bg-comedyplus
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1977
+#EXTINF:-1,bg-hbo2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1974
+#EXTINF:-1,bg-hbo3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1973
+#EXTINF:-1,bg-niceledion
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1972
+#EXTINF:-1,bg-fox
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1970
+#EXTINF:-1,bg-hbo+
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1969
+#EXTINF:-1,bg-nickjr
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1967
+#EXTINF:-1,bg-Planeta
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1968
+#EXTINF:-1,bg-bulgari24
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/1966
+#EXTINF:-1,it-rai1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2181
+#EXTINF:-1,it-rai2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2182
+#EXTINF:-1,it-rai3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2183
+#EXTINF:-1,it-rai4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2184
+#EXTINF:-1,it-rai5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2185
+#EXTINF:-1,it-canal5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2177
+#EXTINF:-1,it-la1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2178
+#EXTINF:-1,it-la2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2179
+#EXTINF:-1,it-la7
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2180
+#EXTINF:-1,it-premiumaction
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2156
+#EXTINF:-1,it-premiumaction24
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2157
+#EXTINF:-1,it-premiumcinema
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2152
+#EXTINF:-1,it-premiumcinema+2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2154
+#EXTINF:-1,it-premiumcinema+2-24
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2155
+#EXTINF:-1,it-premiumcinema24
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2153
+#EXTINF:-1,it-premiumcomedi
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2166
+#EXTINF:-1,it-premiumcrime
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2158
+#EXTINF:-1,it-premiumcrime24
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2159
+#EXTINF:-1,it-premiumemotion
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2165
+#EXTINF:-1,it-premiumenergy
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2164
+#EXTINF:-1,it-premiumjoi
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2160
+#EXTINF:-1,it-paramont channel
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2161
+#EXTINF:-1,it-premiumstudyochannel
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2162
+#EXTINF:-1,it-premiumstories+24
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2163
+#EXTINF:-1,it-raimovie
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2187
+#EXTINF:-1,it-raipremium
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2186
+#EXTINF:-1,it-skyatlantic
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2176
+#EXTINF:-1,it-skycinema1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2171
+#EXTINF:-1,it-skycinema24
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2175
+#EXTINF:-1,it-skycinemaclassic
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2174
+#EXTINF:-1,it-skycinemacomedy
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2173
+#EXTINF:-1,it-skycinemacult
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2172
+#EXTINF:-1,it-skycinemafamily
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2170
+#EXTINF:-1,it-skycinemahits
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2169
+#EXTINF:-1,it-skycinemamax
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2168
+#EXTINF:-1,it-skycinemapassion
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2167
+#EXTINF:-1,dk-tv10
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2075
+#EXTINF:-1,dk-nrk1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2076
+#EXTINF:-1,dk-idx discovery
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2074
+#EXTINF:-1,dk-dk4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2072
+#EXTINF:-1,dk-tv3sport2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2070
+#EXTINF:-1,dk-more hits
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2071
+#EXTINF:-1,dk-tv2 fre
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2073
+#EXTINF:-1,dk-tv2zulu
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2069
+#EXTINF:-1,dk-tv2 zebra
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2068
+#EXTINF:-1,dk-tv6
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2067
+#EXTINF:-1,dk-tv3sport1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2066
+#EXTINF:-1,dk-tv2sport
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2065
+#EXTINF:-1,dk-more futbool
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2064
+#EXTINF:-1,dk-viaset futbool
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2060
+#EXTINF:-1,dk-viaset explorer
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2063
+#EXTINF:-1,dk-viaset film family
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2061
+#EXTINF:-1,dk-viaset film action
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2062
+#EXTINF:-1,dk-viaset golf
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2059
+#EXTINF:-1,dk-viaset history
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2058
+#EXTINF:-1,dk-3 plus
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2053
+#EXTINF:-1,dk-viaset series
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2054
+#EXTINF:-1,dk-viaset nature
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2055
+#EXTINF:-1,dk-tv3plus
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2056
+#EXTINF:-1,dk-disneyxd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2057
+#EXTINF:-1,dk-tv3+
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2048
+#EXTINF:-1,dk-tv2lorry
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2047
+#EXTINF:-1,dk-svt2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2046
+#EXTINF:-1,dk-kanal10 norge
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2045
+#EXTINF:-1,dk-dr1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2052
+#EXTINF:-1,dk-kanaltv5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2051
+#EXTINF:-1,dk-kanal4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2049
+#EXTINF:-1,dk-tv2 news
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2050
+#EXTINF:-1,dk-tv2 livstill
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2044
+#EXTINF:-1,dk-dr 1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2078
+#EXTINF:-1,dk-kanal9
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2077
+#EXTINF:-1,dk-dr ramasjang
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2081
+#EXTINF:-1,dk-moresport
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2092
+#EXTINF:-1,dk-cartonnetwork
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2090
+#EXTINF:-1,dk-dr ultra
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2080
+#EXTINF:-1,dk-more emotion
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2093
+#EXTINF:-1,dk-kanal 5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2079
+#EXTINF:-1,dk-more live
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2091
+#EXTINF:-1,dk-6eren
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2089
+#EXTINF:-1,dk-comedy central
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2088
+#EXTINF:-1,dk-natgeo
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2087
+#EXTINF:-1,dk-kanal 9
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2086
+#EXTINF:-1,dk-disney channel
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2085
+#EXTINF:-1,dk-more first
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2084
+#EXTINF:-1,dk-dr2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2083
+#EXTINF:-1,dk-dr k
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2082
+#EXTINF:-1,dk-dr3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2042
+#EXTINF:-1,dk-tv2 Nyhetskanalen
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2043
+#EXTINF:-1,dk-dr2hd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2041
+#EXTINF:-1,dk-tv3max
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2040
+#EXTINF:-1,dk-tv2charli
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2039
+#EXTINF:-1,cz-amc
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7196
+#EXTINF:-1,cz-axn
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7197
+#EXTINF:-1,cz-bomerang
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7198
+#EXTINF:-1,cz-cinemax
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7199
+#EXTINF:-1,cz-duck
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7200
+#EXTINF:-1,cz-prima
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7201
+#EXTINF:-1,cz-edge
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7202
+#EXTINF:-1,cz-film
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7203
+#EXTINF:-1,cz-prima love
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7205
+#EXTINF:-1,cz-prima cool
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7206
+#EXTINF:-1,cz-filmboxextra
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7204
+#EXTINF:-1,cz-prima comedy central
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7207
+#EXTINF:-1,cz-hbo
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7208
+#EXTINF:-1,cz-hbo2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7209
+#EXTINF:-1,cz-hbo3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7210
+#EXTINF:-1,cz-JOJ-Family
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7211
+#EXTINF:-1,cz-minimax
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7213
+#EXTINF:-1,cz-mnam
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7214
+#EXTINF:-1,cz-prima zoom
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7215
+#EXTINF:-1,cz-the qye
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7216
+#EXTINF:-1,cz-rebel
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7217
+#EXTINF:-1,cz-relax
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7218
+#EXTINF:-1,cz-retro music
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7219
+#EXTINF:-1,cz-tv replika
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7220
+#EXTINF:-1,cz-wau
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7221
+#EXTINF:-1,sc-tv6
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7161
+#EXTINF:-1,sc--tv sjuan
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7187
+#EXTINF:-1,sc-carton network
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7162
+#EXTINF:-1,sc-c more emotion
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7166
+#EXTINF:-1,sc-comedy central
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7167
+#EXTINF:-1,sc-disney channel
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7168
+#EXTINF:-1,sc-vh1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7169
+#EXTINF:-1,sc-mtv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7170
+#EXTINF:-1,sc-svt2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7171
+#EXTINF:-1,sc-fox
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7172
+#EXTINF:-1,sc-tv10
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7173
+#EXTINF:-1,sc-kanal11
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7177
+#EXTINF:-1,sc-tv8
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7174
+#EXTINF:-1,sc-kanal5
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7175
+#EXTINF:-1,sc-kanal9
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7176
+#EXTINF:-1,sc-niceledion
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7212
+#EXTINF:-1,sc-svt1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7178
+#EXTINF:-1,sc-sf kanal
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7186
+#EXTINF:-1,sc-disneyxd
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7185
+#EXTINF:-1,sc-tv2 sport
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7184
+#EXTINF:-1,sc-tv4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7179
+#EXTINF:-1,sc-tv6
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7183
+#EXTINF:-1,sc-tv4 fakta
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7180
+#EXTINF:-1,sc-tv4 film
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7181
+#EXTINF:-1,sc-tv4 guld
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7182
+#EXTINF:-1,sc-viaset film  family
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7190
+#EXTINF:-1,sc-viaset film  primera
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7192
+#EXTINF:-1,sc-viaset film action
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7188
+#EXTINF:-1,sc-viaset film comedy
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7189
+#EXTINF:-1,sc-viaset film hits
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7191
+#EXTINF:-1,sc-viaset film series
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7193
+#EXTINF:-1,sc-viaset history
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7195
+#EXTINF:-1,sc-viaset nature
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7194
+#EXTINF:-1,sc:c more hits
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7163
+#EXTINF:-1,sc:c more live
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7164
+#EXTINF:-1,sc:c more series
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/7165
+#EXTINF:-1,ro-antena1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2341
+#EXTINF:-1,ro-antena3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2340
+#EXTINF:-1,ro-axnblack
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2339
+#EXTINF:-1,ro-axnwhite
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2338
+#EXTINF:-1,ro-music
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2337
+#EXTINF:-1,ro-cinemax
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2336
+#EXTINF:-1,ro-cinemax2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2346
+#EXTINF:-1,ro-digifilm
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2345
+#EXTINF:-1,ro-digisport1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2356
+#EXTINF:-1,ro-digisport2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2357
+#EXTINF:-1,ro-digisport3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2358
+#EXTINF:-1,ro-digisport4
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2359
+#EXTINF:-1,ro-cartonnetwork
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2355
+#EXTINF:-1,ro-b1 tv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2335
+#EXTINF:-1,ro-hbo
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2334
+#EXTINF:-1,ro-hbo2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2344
+#EXTINF:-1,ro-hbo3
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2349
+#EXTINF:-1,ro-kanald
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2354
+#EXTINF:-1,ro-kiss
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2343
+#EXTINF:-1,ro-lookplus
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2342
+#EXTINF:-1,ro-megamax
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2353
+#EXTINF:-1,ro-minimax
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2352
+#EXTINF:-1,ro-trinitas
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2328
+#EXTINF:-1,ro-natgeowild
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2351
+#EXTINF:-1,ro-bomerang
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2327
+#EXTINF:-1,ro-primatv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2350
+#EXTINF:-1,ro-procinema
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2333
+#EXTINF:-1,ro-protv
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2326
+#EXTINF:-1,ro-primacool
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2332
+#EXTINF:-1,ro-taraf
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2325
+#EXTINF:-1,ro-tnt
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2331
+#EXTINF:-1,ro-tv1000
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2348
+#EXTINF:-1,ro-tvr1
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2324
+#EXTINF:-1,ro-tvr2
+http://selcuk.tv:8000/YPgVbUkNIv/Rl3KuvqMVM/2347
