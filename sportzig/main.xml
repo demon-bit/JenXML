@@ -20,34 +20,7 @@
 <content></content>
 <info>[B][COLORyellow]Channels[/COLOR][/B]</info>
 </channel>
-
-<channel>
-	<name>[B] [COLORyellow]WORLD[/COLOR][COLORred][I]IPTV[/COLOR][/B][/I]</name>
-	<link>ignore</link>
-	<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/worldtv.xml</externallink>
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
-	<fanart>-</fanart>
-	<content></content>
-</channel>
 	
-<channel>
-	<name>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]TUBE[/COLOR][/B][/I]</name>
-	<link>ignore</link>
-	<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sporttube.xml</externallink>
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
-	<fanart>-</fanart>
-	<content></content>
-</channel>
-	
-<channel>
-<name>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]FITNESS[/COLOR][/B][/I]</name>
-<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
-<externallink>	https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/fitness.xml</externallink>
-<fanart>-</fanart>
-<content></content>
-</channel>	
-	
-
 <channel>
 <name>[B] [COLORyellow]LIVE[/COLOR][COLORred][I]SPORTS[/COLOR][/B][/I]</name>
 <thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
@@ -60,6 +33,23 @@
 <name>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]PLUGINS[/COLOR][/B][/I]</name>
 <thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sportplugs.xml</externallink>
+<fanart>-</fanart>
+<content></content>
+</channel>
+	
+<channel>
+<name>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]FITNESS[/COLOR][/B][/I]</name>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+<externallink>	https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/fitness.xml</externallink>
+<fanart>-</fanart>
+<content></content>
+</channel>
+	
+<channel>
+<name>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]TUBE[/COLOR][/B][/I]</name>
+<link>ignore</link>
+<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sporttube.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 <fanart>-</fanart>
 <content></content>
 </channel>
@@ -81,6 +71,22 @@
 <content></content>
 <info>[B][COLORyellow]Channels[/COLOR][/B]</info>
 </channel>  
+
+<channel>
+	<name>[B] [COLORyellow]WORLD[/COLOR][COLORred][I]IPTV[/COLOR][/B][/I]</name>
+	<link>ignore</link>
+	<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/worldtv.xml</externallink>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<fanart>-</fanart>
+	<content></content>
+</channel>
+	
+	
+	
+
+
+	
+
 	
 
 
