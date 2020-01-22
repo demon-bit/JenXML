@@ -9,10 +9,11 @@
 <item>
 <title>FITNESSZONE</title>
 <link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist?list=PLtORWwelA8bLT3QLL5cBD7YYSIVubQVpq</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLtORWwelA8bLT3QLL5cBD7YYSIVubQVpq/?page=0</jsonrpc>
 <thumbnail>https://kodi.tv/sites/default/files/addon_assets/plugin.video.fitnessblenderv2/icon/icon.png</thumbnail>
 <fanart>https://wallpapercave.com/wp/gfF9tZY.jpg</fanart>
 </item>
+
 
 
 
