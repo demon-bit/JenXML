@@ -62,8 +62,8 @@
 <fanart>-</fanart>
 <content></content>
 <info>[B][COLORyellow]Channels[/COLOR][/B]</info>
-</channel>  
-
+</channel> 
+	
 <channel>
 <name>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]CHANNELS 3[/COLOR][/B][/I]</name>
 <thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
@@ -71,7 +71,7 @@
 <fanart>-</fanart>
 <content></content>
 <info>[B][COLORyellow]Channels[/COLOR][/B]</info>
-</channel> 	
+</channel>
 
 <channel>
 <name>[B] [COLORyellow]WORLD[/COLOR][COLORred][I]IPTV[/COLOR][/B][/I]</name>
