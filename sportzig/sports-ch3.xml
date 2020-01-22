@@ -1,3 +1,53 @@
+
+<item>
+	<title>TVTap Sport-channels</title>
+	<link>ignorme</link>
+	<jsonrpc>plugin://script.module.tt/list_channels/5</jsonrpc>
+	<thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
+</item>
+
+<item>
+	<title>Swiftstreamz-Sport Channels</title>
+	<link>ignorme</link>
+	<jsonrpc>plugin://script.module.swiftstreamz/list_channels/8</jsonrpc>
+	<thumbnail>http://pclaptopapps.com/wp-content/uploads/2016/11/com.swift.stream.png</thumbnail>
+</item>
+
+<item>
+	<title>LaolaTv Sports</title>
+	<link>ignorme</link>
+	<jsonrpc>plugin://script.module.laola1tv</jsonrpc>
+	<thumbnail>https://lh3.googleusercontent.com/EdkLVz0AtB9LpYFEaomaf2BGmHK1O5jwxx-Lt6_co3AG0dxjGuAlI9hBLMlcgjA0XQ=w300</thumbnail>
+</item>
+
+<item>
+	<title>swiftstreamz</title>
+	<link>ignorme</link>
+	<jsonrpc>plugin://script.module.swiftstreamz</jsonrpc>
+	<thumbnail>http://pclaptopapps.com/wp-content/uploads/2016/11/com.swift.stream.png</thumbnail>
+</item>
+
+<item>
+	<title>TVTap</title>
+	<link>ignorme</link>
+	<jsonrpc>plugin://script.module.tt</jsonrpc>
+	<thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
+</item>
+
+<item>
+	<title>TVTap Channels</title>
+	<link>ignorme</link>
+	<jsonrpc>plugin://script.module.tt/list_channels/6</jsonrpc>
+	<thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
+</item>
+
+
+	
+
+
+
+
+
 <item>
 <title>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]TV-TAP</title>
 <link>ignorme</link>
