@@ -1,17 +1,11 @@
 <item>
-	<title>FITNESSBLENDER</title>
-	<link>ignorme</link>
-	<jsonrpc>Plugin://plugin.video.youtube/search/?q=Fitnessblender</jsonrpc>
-	<thumbnail>https://kodi.tv/sites/default/files/addon_assets/plugin.video.fitnessblenderv2/icon/icon.png</thumbnail>
+<title>FITNESSBLENDER</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/search/?q=Fitnessblender</jsonrpc>
+<thumbnail>https://kodi.tv/sites/default/files/addon_assets/plugin.video.fitnessblenderv2/icon/icon.png</thumbnail>
+<fanart>https://wallpapercave.com/wp/gfF9tZY.jpg</fanart>
 </item>
 
-
-<item>	
-	<title>STRONG FEMALE FITNESS MOMENTS - HARD WORKOUT 2018</title>
-	<link>plugin://plugin.video.youtube/play/?video_id=gdM5Bb5-PS0</link>
-	<thumbnail>https://secure.webtoolhub.com/static/resources/icons/set59/66546a3c.png</thumbnail>
-	<fanart></fanart>
-</item>
 
 
 
