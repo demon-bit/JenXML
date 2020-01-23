@@ -1,17 +1,14 @@
 <dir>
     <title>[COLOR blue]• [/COLOR][COLORaquamarine]Last FM[/COLOR]</title>
     <link>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/lastfm.xml</link>
-	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
-</dir>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/icon/flixhat.png</thumbnail></dir>
 
 <dir>
     <title>[COLOR blue]• [/COLOR][COLORblue]Concerts[/COLOR]</title>
     <link>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/concerts.xml</link>
-	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
-</dir>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/icon/flixhat.png</thumbnail></dir>
 
 <dir>
     <title>[COLOR blue]• [/COLOR][COLORblue]You[/COLOR][COLORlightgrey]Tube[/COLOR]</title>
     <link>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/yt.xml</link>
-	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
-</dir>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/icon/flixhat.png</thumbnail></dir>
