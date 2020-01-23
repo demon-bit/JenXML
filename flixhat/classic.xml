@@ -1,0 +1,29 @@
+<dir>
+    <title>[COLOR lightsteelblue]• [/COLOR][COLORblue]Best of ›[/COLOR] [COLORgainsboro]Classic TV Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/classic-tv-shows/items</trakt>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></dir>    
+
+<dir>
+    <title>[COLOR lightsteelblue]• [/COLOR][COLORblue]Best of the[/COLOR] [COLORgainsboro]50's TV[/COLOR][COLORgainsboro] Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/50-s-tv-shows/items</trakt>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></dir>    
+
+<dir>
+    <title>[COLOR lightsteelblue]• [/COLOR][COLORblue]Best of the[/COLOR] [COLORgainsboro]60's TV[/COLOR][COLORgainsboro] Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/60-s-tv-shows/items</trakt>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></dir>    
+
+<dir>
+    <title>[COLOR lightsteelblue]• [/COLOR][COLORblue]Best of the[/COLOR] [COLORgainsboro]70's TV[/COLOR] [COLORgainsboro]Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/70-s-tv-shows/items</trakt>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></dir>    
+
+<dir>
+    <title>[COLOR lightsteelblue]• [/COLOR][COLORblue]Best of the[/COLOR] [COLORgainsboro]80's TV[/COLOR] [COLORgainsboro]Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/80-s-tv-shows/items</trakt>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></dir>    
+
+<dir>
+    <title>[COLOR lightsteelblue]• [/COLOR][COLORblue]Best of the[/COLOR] [COLORgainsboro]90's TV[/COLOR] [COLORgainsboro]Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/90s-tv-shows/items</trakt>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></dir>    
