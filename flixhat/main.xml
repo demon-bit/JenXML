@@ -50,7 +50,7 @@
 	<meta>
 		<summary>Open the Settings for this addon.</summary>
 	</meta>
-	<link>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1<link>
+	<link>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/icon/flixhat.png</thumbnail>
 </plugin>
 
