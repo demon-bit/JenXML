@@ -37,6 +37,15 @@
 </dir>
 
 <plugin>
+	<title>[COLORblue]• [/COLOR][COLORlightgrey]L[/COLOR][COLORlightgrey]ive Sports[/COLOR]</title>
+	<meta>
+		<summary>SportDevil</summary>
+	</meta>
+	<link>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/icon/flixhat.png</thumbnail>
+</plugin>
+
+<plugin>
 	<title>[COLORblue]• [/COLOR][COLORblue]Settings[/COLOR]</title>
 	<meta>
 		<summary>Open the Settings for this addon.</summary>
@@ -44,16 +53,6 @@
 	<mysettings>0/0</mysettings>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/icon/flixhat.png</thumbnail>
 </plugin>
-
-<plugin>
-	<title>testen</title>
-	<meta>
-		<summary>Open the Settings for this addon.</summary>
-	</meta>
-	<link>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</link>
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/icon/flixhat.png</thumbnail>
-</plugin>
-
 
 <dir>
     	<title>[COLOR red]Search Trakt[/COLOR]</title>
