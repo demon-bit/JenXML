@@ -36,14 +36,6 @@
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/icon/flixhat.png</thumbnail>
 </dir>
 
-<dir>
-    <title>[COLORblue]• [/COLOR][COLORlightgrey]Sport[/COLOR][COLORlightgrey]Zig[/COLOR]</title>
-    <link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/main.xml</link>
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/icon/flixhat.png</thumbnail>
-</dir>
-
-
-
 <plugin>
 	<title>[COLORblue]• [/COLOR][COLORblue]Settings[/COLOR]</title>
 	<meta>
