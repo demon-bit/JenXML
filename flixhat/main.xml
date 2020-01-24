@@ -45,6 +45,15 @@
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/icon/flixhat.png</thumbnail>
 </plugin>
 
+<plugin>
+	<title>testen</title>
+	<meta>
+		<summary>Open the Settings for this addon.</summary>
+	</meta>
+	<link>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1<link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/icon/flixhat.png</thumbnail>
+</plugin>
+
 
 <dir>
     	<title>[COLOR red]Search Trakt[/COLOR]</title>
