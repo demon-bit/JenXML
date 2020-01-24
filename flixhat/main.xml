@@ -36,6 +36,13 @@
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/icon/flixhat.png</thumbnail>
 </dir>
 
+<dir>
+    <title>[B] [COLORyellow]LIVE[/COLOR][COLORred][I]SPORTS[/COLOR][/B][/I]</title>
+    <link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sportlive.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/icon/flixhat.png</thumbnail>
+</dir>
+
+
 <plugin>
 	<title>[COLORblue]• [/COLOR][COLORblue]Settings[/COLOR]</title>
 	<meta>
