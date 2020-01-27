@@ -1,6 +1,6 @@
 <item>
 <title>Fight Night (Links Will be added 30min before start)</title>
-<link>plugin://plugin.video.SportsDevil/mode=1&amp;amp;item=title%3dLive%2bSports%26url=3dlivesports.cfg%26definedIn%3dmainMenu.cfg</link>
+<link>plugin://plugin.video.SportsDevil/mode=1&amp;amp;item=title%3dLive%2bSports%26url=livesports.cfg%26definedIn%3dmainMenu.cfg</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
