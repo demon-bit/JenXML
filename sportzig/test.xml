@@ -1,10 +1,11 @@
 <item>
 <title>Fight Night (Links Will be added 30min before start)</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/sport365.live/en/home/579d195d4ed7b.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>Sky Sports Main Event</title>
