@@ -1,7 +1,6 @@
 <item>
 <title>Fight Night (Links Will be added 30min before start)</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/sport365.live/en/home/579d195d4ed7b.cfg&amp;mode=1</jsonrpc>
+<link>plugin://script.module.sport</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
