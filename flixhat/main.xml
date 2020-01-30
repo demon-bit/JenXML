@@ -37,7 +37,7 @@
 </dir>
 
 <plugin>
-        <title>[COLORblue]• Live Sports [/COLOR]</title>
+        <title>[COLORorange]• Live Sports [/COLOR]</title>
         <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sportlive.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/icon/flixhat.png</thumbnail>
 </plugin>
