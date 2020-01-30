@@ -37,18 +37,9 @@
 </dir>
 
 <plugin>
-        <title>[COLORblue]• [/COLOR][COLORlightgrey]L[/COLOR][COLORlightgrey]ive Sports[/COLOR]</title>
+        <title>[COLORblue]• Live Sports [/COLOR]</title>
         <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sportlive.xml</link>
         <thumbnail>http://pdhed.com/wp-content/uploads/2014/09/TheTestingZone_TitlePage-300x169.jpg</thumbnail>
-</plugin>
-
-<plugin>
-	<title>Sportdevil live</title>
-	<meta>
-		<summary>SportDevil</summary>
-	</meta>
-	<link>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</link>
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/icon/flixhat.png</thumbnail>
 </plugin>
 
 <plugin>
