@@ -3,7 +3,7 @@
 
 <xml>
 <dir>
-	<title>333</title>
+	<title>TESTZONE</title>
 	<link>http://Ignoreme</link>
 	<thumbnail>http://img.over-blog-kiwi.com/1/18/59/20/20160411/ob_de3e23_sport-tv.png</thumbnail>
 	<info> </info>
@@ -12,7 +12,7 @@
 
 <plugin>
   <name>SportPlugins</name>
-  <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/sportplugs.xml</link>
+  <link>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/sportplugs.xml</link>
   <thumbnail>http://pdhed.com/wp-content/uploads/2014/09/TheTestingZone_TitlePage-300x169.jpg</thumbnail>
 </plugin>
 
