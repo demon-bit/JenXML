@@ -16,11 +16,10 @@
   <thumbnail>http://pdhed.com/wp-content/uploads/2014/09/TheTestingZone_TitlePage-300x169.jpg</thumbnail>
 </plugin>
 
-  dir>
-  <title>1234</title>
-  <link></link>
-  <thumbnail>http://pdhed.com/wp-content/uploads/2014/09/TheTestingZone_TitlePage-300x169.jpg</thumbnail>
-</dir>
+<plugin>
+   <title>[B][COLOR snow]•TapSports[/COLOR][/B]</title>
+   <link>plugin://script.module.tt/list_channels/5</link>
+</plugin>
 
 
 </xml>
