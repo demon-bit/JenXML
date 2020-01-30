@@ -52,6 +52,12 @@
 </plugin>
 
 <dir>
+	<title>[COLORred]• TestZone[/COLOR]</title>
+	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/test.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/icon/flixhat.png</thumbnail>
+</dir>
+
+<dir>
     	<title>[COLOR red]Search Trakt[/COLOR]</title>
     	<trakt>search</trakt>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/icon/flixhat.png</thumbnail>
