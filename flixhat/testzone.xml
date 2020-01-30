@@ -20,6 +20,11 @@
    <title>[B][COLOR snow]•TapSports[/COLOR][/B]</title>
    <link>plugin://script.module.tt/list_channels/5</link>
 </plugin>
+	
+<dir>
+	<title>[B][COLOR snow]•[/COLOR][COLOR yellow]•[/COLOR][COLORdeepskyblue] T[/COLOR][COLORsnow]ools [/COLOR][COLOR yellow]•[/COLOR][COLOR snow]•[/COLOR][/B]</title>      				
+	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/settings_menu.xml</link>
+</dir>
 
 
 </xml>
