@@ -11,18 +11,12 @@
 
 
 <plugin>
-  <name>SportPlugins</name>
-  <link>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/sportplugs.xml</link>
-  <thumbnail>http://pdhed.com/wp-content/uploads/2014/09/TheTestingZone_TitlePage-300x169.jpg</thumbnail>
-</plugin>
-
-<plugin>
    <title>[B][COLOR snow]•TapSports[/COLOR][/B]</title>
    <link>plugin://script.module.tt/list_channels/5</link>
 </plugin>
 	
 <dir>
-	<title>[B][COLOR snow]•[/COLOR][COLOR yellow]•[/COLOR][COLOR red]Tools [/COLOR][/B]</title>      				
+	<title>[B][COLOR snow]•[/COLOR][COLOR red]Tools [/COLOR][/B]</title>      				
 	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/settings_menu.xml</link>
 </dir>
 
