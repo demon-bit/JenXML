@@ -19,6 +19,62 @@
 	<title>[B][COLOR snow]•[/COLOR][COLOR red]Tools [/COLOR][/B]</title>      				
 	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/flixhat/settings_menu.xml</link>
 </dir>
+	
+<item>
+   <title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR deepskyblue]IPTV by Country[/COLOR][/B]</title>
+   <link>http://ignorame</link>
+   <externallink>https://iptv-org.github.io/iptv/index.category.m3u</externallink>
+   <thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+   <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>
+
+<item>
+   <title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR deepskyblue]IPTV 6000+[/COLOR][/B]</title>
+   <link>http://ignorame</link>
+   <externallink>https://iptv-org.github.io/iptv/index.m3u</externallink>
+   <thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+   <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>
+
+<item>
+    <title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR snow] English IPTV Cinema  [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+	<link>http://ignorame</link>
+    <externallink>https://iptv-org.github.io/iptv/categories/movies.m3u<externallink>
+	<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+	<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>
+
+<item>
+    <title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR snow] Fluxus English IPTV Cinema (Outdated) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+	<link>http://ignorame</link>
+    <externallink>https://pastebin.com/raw/jbqA0j82<externallink>
+	<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+	<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>
+
+<item>
+    <title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR snow] French IPTV Cinema (Outdated) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+	<link>http://ignorame</link>
+    <externallink>https://pastebin.com/raw/cWbbtduU<externallink>
+	<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+	<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>
+
+<item>
+    <title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR snow] Italian IPTV Cinema (Outdated) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+	<link>http://ignorame</link>
+    <externallink>https://pastebin.com/raw/JkBfYpXz<externallink>
+	<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+	<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>
+
+<item>
+    <title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR snow] Spanish IPTV Cinema (Outdated) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+	<link>http://ignorame</link>
+    <externallink>https://pastebin.com/raw/U5Nai4hs<externallink>
+	<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+	<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>
 
 
 </xml>
