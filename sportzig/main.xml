@@ -30,6 +30,13 @@
 	<info> </info>
 </dir>
 	
+<dir>
+	<title>[B] [COLORorange]FITNESS[/COLOR][/B]</title>
+	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sporttube.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<info> </info>
+</dir>
+	
 <plugin>
    <title>[B] [COLORyellow]TAP[/COLOR][COLORred][I]SPORTS[/COLOR][/B][/I]</title>
    <link>plugin://script.module.tt/list_channels/5</link>
