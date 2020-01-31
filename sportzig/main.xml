@@ -60,8 +60,8 @@
 </dir>
 	
 <plugin>
-    <name>[B][COLOR snow]•[/COLOR][COLOR yellow]•[/COLOR][COLORdeepskyblue] I[/COLOR][COLORlightslategray]PTV[/COLOR][COLORdeepskyblue] P[/COLOR][COLORlightslategray]lAyGrOuNd [/COLOR][COLOR yellow]•[/COLOR][COLOR snow]•[/COLOR][/B]</name>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Shark5588/wtf/master/playGround1.xml</link>
+    <name>[B][COLOR snow]•[/COLOR][COLOR yellow]•[/COLOR][COLORdeepskyblue]test[/COLOR][COLORlightslategray]PTV[/COLOR][COLORdeepskyblue] P[/COLOR][COLORlightslategray]lAyGrOuNd [/COLOR][COLOR yellow]•[/COLOR][COLOR snow]•[/COLOR][/B]</name>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sports-ch1.m3u</link>
  </plugin>
 
 	
