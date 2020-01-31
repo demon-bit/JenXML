@@ -35,4 +35,9 @@
    <link>plugin://script.module.tt/list_channels/5</link>
 </plugin>
 	
+<plugin>
+   <title>[B] [COLORyellow]LAOLA[/COLOR][COLORred][I]SPORTS[/COLOR][/B][/I]</title>    
+   <link>plugin://script.module.laola1tv</link>
+</plugin>
+	
 </xml>
