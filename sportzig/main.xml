@@ -12,7 +12,7 @@
 	
 <plugin>
 	<title>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]RANDOM DAILY[/COLOR][/B][/I]</title>
-	<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/test123.xml</link>
+	<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/iptv-daily.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 	<info> </info>
 </plugin>
