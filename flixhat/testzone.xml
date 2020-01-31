@@ -19,12 +19,6 @@
 	
 	
 <plugin>
-   <title>test</title>
-   <link>plugin://plugin.video.youtube/playlist/PLyORnIW1xT6waC0PNjAMj33FdK2ngL_ik/</link>
-</plugin>
-
-
-<plugin>
    <title>[B][COLOR snow]•TapSports[/COLOR][/B]</title>
    <link>plugin://script.module.tt/list_channels/5</link>
 </plugin>
