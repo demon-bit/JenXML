@@ -24,4 +24,11 @@
 	<info> </info>
 </dir>
 	
+<dir>
+	<title>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]TUBE[/COLOR][/B][/I]</title>
+	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sporttube.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<info> </info>
+</dir>
+	
 </xml>
