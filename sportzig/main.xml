@@ -59,12 +59,10 @@
 	<info> </info>
 </dir>
 	
-<dir>
-        <title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORdeepskyblue] CANADA [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
-        <link>https://iptv-org.github.io/iptv/countries/ca.m3u</link>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-</dir>
+<plugin>
+    <name>[B][COLOR snow]•[/COLOR][COLOR yellow]•[/COLOR][COLORdeepskyblue] I[/COLOR][COLORlightslategray]PTV[/COLOR][COLORdeepskyblue] P[/COLOR][COLORlightslategray]lAyGrOuNd [/COLOR][COLOR yellow]•[/COLOR][COLOR snow]•[/COLOR][/B]</name>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Shark5588/wtf/master/playGround1.xml</link>
+ </plugin>
 
 	
 </xml>
