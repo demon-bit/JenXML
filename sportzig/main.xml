@@ -52,17 +52,12 @@
    <link>plugin://script.module.laola1tv</link>
 </plugin>
 	
-<dir>
+<plugin>
 	<title>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]CHANNELS 1[/COLOR][/B][/I]</title>
-	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sports-ch1.m3u</link>
+	<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sports-ch1.m3u</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 	<info> </info>
-</dir>
+</plugin>
 	
-<plugin>
-    <name>[B][COLOR snow]•[/COLOR][COLOR yellow]•[/COLOR][COLORdeepskyblue]test[/COLOR][COLORlightslategray]PTV[/COLOR][COLORdeepskyblue] P[/COLOR][COLORlightslategray]lAyGrOuNd [/COLOR][COLOR yellow]•[/COLOR][COLOR snow]•[/COLOR][/B]</name>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sports-ch1.m3u</link>
- </plugin>
-
 	
 </xml>
