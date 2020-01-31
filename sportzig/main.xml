@@ -1,34 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
-
-<layouttype>thumbnail</layouttype>
-
-<channels>
-
-<channel>
-	<name>[B][I][COLOR pink] *** Last Update 22-01-2020 ***[/COLOR][/I][/B]</name>
+<xml>
+	
+<dir>
+	<title>[B][I][COLOR pink] *** Last Update 22-01-2020 ***[/COLOR][/I][/B]</title>
+	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sporttube.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
-	<fanart>https://wallpapercave.com/wp/gfF9tZY.jpg
-	</fanart>	
-	<content></content>
-</channel>
+	<info> </info>
+</dir>
 	
-<channel>
-<name>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]RANDOM DAILY[/COLOR][/B][/I]</name>
-<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/RenewIptv.xml</externallink>
-<fanart>https://wallpapercave.com/wp/gfF9tZY.jpg</fanart>
-<content></content>
-<info>[B][COLORyellow]Channels[/COLOR][/B]</info>
-</channel>
+<dir>
+	<title>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]RANDOM DAILY[/COLOR][/B][/I]</title>
+	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/RenewIptv.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<info> </info>
+</dir>
 	
-<channel>
-<name>[B] [COLORyellow]LIVE[/COLOR][COLORred][I]SPORTS[/COLOR][/B][/I]</name>
-<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sportlive.xml</externallink>
-<fanart>https://wallpapercave.com/wp/gfF9tZY.jpg</fanart>
-<content></content>
-</channel>
+<dir>
+	<title>[B] [COLORyellow]LIVE[/COLOR][COLORred][I]SPORTS[/COLOR][/B][/I]</title>
+	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sportlive.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<info> </info>
+</dir>
+
+
+	
+
 		
 <channel>
 <name>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]FITNESS[/COLOR][/B][/I]</name>
