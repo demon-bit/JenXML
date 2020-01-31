@@ -3,19 +3,19 @@
 
 <xml>
 	
-<dir>
-	<title>[B][I][COLOR pink] *** Last Update 22-01-2020 ***[/COLOR][/I][/B]</title>
-	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sporttube.xml</link>
+<plugin>
+	<title>[B][I][COLOR pink] *** Last Update BETA 31-01-2020 ***[/COLOR][/I][/B]</title>
+	<link>|</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 	<info> </info>
-</dir>
+</plugin>
 	
-<dir>
+<plugin>
 	<title>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]RANDOM DAILY[/COLOR][/B][/I]</title>
-	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/RenewIptv.xml</link>
+	<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/test123.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 	<info> </info>
-</dir>
+</plugin>
 	
 <dir>
 	<title>[B] [COLORyellow]LIVE[/COLOR][COLORred][I]SPORTS[/COLOR][/B][/I]</title>
@@ -58,14 +58,6 @@
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 	<info> </info>
 </plugin>
-	
-<plugin>
-	<title>[B] [COLORyellow]test[/COLOR][COLORred][I]CHANNELS 1[/COLOR][/B][/I]</title>
-	<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/test123.xml</link>
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
-	<info> </info>
-</plugin>
-	
 	
 	
 </xml>
