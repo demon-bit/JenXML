@@ -17,6 +17,11 @@
 	<info> </info>
 </dir>
 	
+
+<plugin>
+   <title>[B][COLOR snow]•Live Sports[/COLOR][/B]</title>
+   <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sportlive.xml</link>
+</plugin>
 	
 <plugin>
    <title>[B][COLOR snow]•TapSports[/COLOR][/B]</title>
