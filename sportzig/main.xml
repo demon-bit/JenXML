@@ -30,4 +30,9 @@
 	<info> </info>
 </dir>
 	
+<plugin>
+   <title>[B] [COLORyellow]TAP[/COLOR][COLORred][I]SPORTS[/COLOR][/B][/I]</title>
+   <link>plugin://script.module.tt/list_channels/5</link>
+</plugin>
+	
 </xml>
