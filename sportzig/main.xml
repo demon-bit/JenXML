@@ -19,8 +19,7 @@
 	
 <dir>
 	<title>[B] [COLORyellow]LIVE[/COLOR][COLORred][I]SPORTS[/COLOR][/B][/I]</title>
-	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sportlive.xml</link>
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+        <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sportlive.xml</link>	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 	<info> </info>
 </dir>
 	
