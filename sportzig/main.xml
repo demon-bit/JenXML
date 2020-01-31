@@ -67,4 +67,12 @@
 	<info> </info>
 </plugin>
 	
+<dir>
+	<title>[B][COLORred]TESTZONE[/COLOR][/B]</title>
+	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/testzone.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<info> </info>
+</dir>
+	
+	
 </xml>
