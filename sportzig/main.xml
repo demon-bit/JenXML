@@ -52,4 +52,11 @@
    <link>plugin://script.module.laola1tv</link>
 </plugin>
 	
+<dir>
+	<title>[B] [COLORyellow]SPORT[/COLOR][COLORred][I]CHANNELS 1[/COLOR][/B][/I]</title>
+	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sports-ch1.m3u</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<info> </info>
+</dir>
+	
 </xml>
