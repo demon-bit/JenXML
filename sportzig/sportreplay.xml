@@ -1,8 +1,9 @@
 
 <plugin>
-	<title>PROFESSIONAL DARTS CORPORATION LIST</title>
-	<link>plugin://plugin.video.youtube/playlist/UURvCwDp_1DwOlOpnlJf9iYw/</link>
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/pdc.jpg</thumbnail>
+	<title>DARTS LIVE</title>
+	<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://watch-live.net/s/darts/</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
+	<info> </info>
 </plugin>
 
 
