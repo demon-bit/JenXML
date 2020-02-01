@@ -58,7 +58,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = '[makelist.param1]'):
 
 <plugin>
     <title>watch-espn-mccomb-vs-godoy</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=58&url=http://nbastreams123.xyz/boxingstreams/watch-espn-mccomb-vs-godoy/video.php</link>
+    <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nbastreams123.xyz/boxingstreams/watch-espn-mccomb-vs-godoy/video.php</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 </plugin>
