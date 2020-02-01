@@ -66,7 +66,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = '[makelist.param1]'):
 
 <plugin>
     <title>BOXING (60)</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://cdn1.hdstreams.club/live/ch5/index.m3u8|Referer=http://hdstreams.club/page/ch5.php</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://hdstreams.club/page/ch5.php</link>
     <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/boxing.png</thumbnail>
     <fanart>special://home/addons/script.thecrew.artwork/resources/fanart/boxing_fanart.jpg</fanart>
 </plugin>
