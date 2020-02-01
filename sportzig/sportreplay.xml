@@ -3,7 +3,7 @@
 	<title>RTL7 DARTS CHANNEL</title>
 	<link>plugin://plugin.video.youtube/channel/UCA2PUXBrFutUi16oGH-BOfQ/playlists/</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/rtldarts.jpg</thumbnail>
-	https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/dartsfanart.jpg
+	<fanart>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/dartsfanart.jpg</fanart>
 </plugin>
 
 
@@ -11,6 +11,8 @@
 	<title>PROFESSIONAL DARTS CORPORATION CHANNEL</title>
 	<link>plugin://plugin.video.youtube/channel/UCRvCwDp_1DwOlOpnlJf9iYw/playlists/</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/pdc.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/dartsfanart.jpg</fanart>
+
 </plugin>
 
 
