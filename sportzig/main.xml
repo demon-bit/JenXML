@@ -39,7 +39,7 @@
 	
 <dir>
 	<title>[B] [COLORgreen]ALL[/COLOR][COLORred][I]SPORTS REPLAY[/COLOR][/B][/I]</title>
-	<link></link>
+	<link>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/sportreplay.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
 	<info> </info>
 </dir>
