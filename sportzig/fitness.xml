@@ -22,7 +22,7 @@
 <plugin>
 <title>OPTIMA VITA</title>
 <link>plugin://plugin.video.youtube/channel/UC_9u5L8pn1vAzqqrSv3CwnQ/playlists/</link>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/marloes.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/fitness-wallpaper.jpg</fanart>
 </plugin>
 
