@@ -34,18 +34,20 @@
 </plugin>
 
 <plugin>
+<title>OPTIMA VITA</title>
+<link>plugin://plugin.video.youtube/channel/UC_9u5L8pn1vAzqqrSv3CwnQ/playlists/</link>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/marloes.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/fitness-wallpaper.jpg</fanart>
+</plugin>
+
+<plugin>
 <title>RENEE AMBERG</title>
 <link>plugin://plugin.video.youtube/channel/UCwrck-lD9ERHLWxWDD8_uyA/playlists/</link>
 <thumbnail>https://i.ytimg.com/vi/VXpM220eTkE/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAFyPTjCbOfNdgFQFktu3d3fO_aSg</thumbnail>
 <fanart>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/fitness-wallpaper.jpg</fanart>
 </plugin>
 
-<plugin>
-<title>OPTIMA VITA</title>
-<link>plugin://plugin.video.youtube/channel/UC_9u5L8pn1vAzqqrSv3CwnQ/playlists/</link>
-<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/marloes.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/fitness-wallpaper.jpg</fanart>
-</plugin>
+
 
 
 
