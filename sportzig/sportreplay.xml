@@ -6,6 +6,18 @@
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/pdc.jpg</thumbnail>
 </plugin>
 
+<plugin>
+	<title>PROFESSIONAL DARTS CORPORATION</title>
+	<link>plugin://plugin.video.youtube/channel/UCRvCwDp_1DwOlOpnlJf9iYw</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/pdc.jpg</thumbnail>
+</plugin>
+
+<plugin>
+	<title>PROFESSIONAL DARTS CORPORATION</title>
+	<link>plugin://plugin.video.youtube/user/officialpdc/playlists</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/pdc.jpg</thumbnail>
+</plugin>
+
 
 
 
