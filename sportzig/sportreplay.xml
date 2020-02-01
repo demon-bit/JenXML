@@ -1,9 +1,8 @@
 
 <plugin>
-	<title>DARTS LIVE</title>
-	<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://watch-live.net/s/darts/</link>
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/xml-master/master/icons/sportzig.png</thumbnail>
-	<info> </info>
+	<title>RTL7 DARTS CHANNEL</title>
+	<link>plugin://plugin.video.youtube/channel/UCA2PUXBrFutUi16oGH-BOfQ/playlists/</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/JenXML/master/sportzig/icon/pdc.jpg</thumbnail>
 </plugin>
 
 
